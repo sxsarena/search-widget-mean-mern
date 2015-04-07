@@ -1,16 +1,18 @@
 # Desafio busca de disponibilidade
 
-Esse problema tem 2 constraints, no entanto:
+Neste problema você deve implementar o widget de busca de hoteis. Este desenvolvimento engloba o auto-complete de hoteis e a busca por disponibilidades quando o usuário informa um periodo de estadia. 
 
-a) Eu preciso conseguir rodar seu código no mac os x OU no ubuntu;
-b) Eu vou executar seu código com os seguintes comandos:
+A interface em anexo precisa ser implementada assim como o backend para consumir a lista de hoteis e as disponibilidades. Tudo será avaliado. Faça o seu melhor na linguagem onde vc possui o maior domínio.
 
-git clone seu-fork
-cd seu-fork
-./configure
-make
+Restrições
+* Eu preciso conseguir rodar seu código no mac os x OU no ubuntu;
+* Eu vou executar seu código com os seguintes comandos:
+*git clone seu-fork*
+*cd seu-fork*
+*commando para instalar dependências*
+*commando para executar a aplicação*
 
-Esses comandos tem que ser o suficiente para configurar meu mac os x OU ubuntu e rodar seu programa. Pode considerar que eu tenho instalado no meu sistema Python 2.7, Java 1.6, PHP 5, Ruby 1.9  Qualquer outra dependência que eu precisar vc tem que prover.
+Esses comandos tem que ser o suficiente para configurar meu mac os x OU ubuntu e rodar seu programa. Pode considerar que eu tenho instalado no meu sistema Python, Java, PHP, Ruby e/ou Node. Qualquer outra dependência que eu precisar vc tem que prover.
 
 A imagem ANEXO é do site do próprio HU:
 
@@ -18,4 +20,5 @@ A imagem ANEXO é do site do próprio HU:
 
 2 - Preciso que vc implemente esta interface utilizando os serviços
 
-3 - Preciso que os seus serviços suportem um volume de 5000 requisições por minuto
+3 - Preciso que os seus serviços suportem um volume de 1000 requisições por segundo
+
