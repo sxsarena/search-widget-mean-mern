@@ -14,11 +14,6 @@ Restrições
 
 Esses comandos tem que ser o suficiente para configurar meu mac os x OU ubuntu e rodar seu programa. Pode considerar que eu tenho instalado no meu sistema Python, Java, PHP, Ruby e/ou Node. Qualquer outra dependência que eu precisar vc tem que prover.
 
-A imagem ANEXO é do site do próprio HU:
-
-1 - Preciso que vc faça os serviços necessários para que esta interface funcione.
-
-2 - Preciso que vc implemente esta interface utilizando os serviços
-
-3 - Preciso que os seus serviços suportem um volume de 1000 requisições por segundo
+Performance
+*Preciso que os seus serviços suportem um volume de 1000 requisições por segundo
 
