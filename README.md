@@ -1,4 +1,4 @@
-# Desafio busca de disponibilidade
+# Desafio de auto-complete e busca disponibilidade
 
 Neste problema você deve implementar o widget de busca de hoteis. Este desenvolvimento engloba o auto-complete de hoteis e a busca por disponibilidades quando o usuário informa um periodo de estadia. 
 
@@ -7,6 +7,7 @@ A interface em anexo precisa ser implementada assim como o backend para consumir
 Restrições
 * Eu preciso conseguir rodar seu código no mac os x OU no ubuntu;
 * Eu vou executar seu código com os seguintes comandos:
+-
 *git clone seu-fork*
 *cd seu-fork*
 *commando para instalar dependências*
