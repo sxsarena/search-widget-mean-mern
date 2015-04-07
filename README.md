@@ -4,7 +4,7 @@ Neste problema você deve implementar o widget de busca de hoteis. Este desenvol
 
 A interface em anexo precisa ser implementada assim como o backend para consumir a lista de hoteis e as disponibilidades. Tudo será avaliado. Faça o seu melhor na linguagem onde vc possui o maior domínio.
 
-Restrições
+***Restrições***
 * Eu preciso conseguir rodar seu código no mac os x OU no ubuntu;
 * Eu vou executar seu código com os seguintes comandos:
 
@@ -15,8 +15,8 @@ Restrições
 
 Esses comandos tem que ser o suficiente para configurar meu mac os x OU ubuntu e rodar seu programa. Pode considerar que eu tenho instalado no meu sistema Python, Java, PHP, Ruby e/ou Node. Qualquer outra dependência que eu precisar vc tem que prover.
 
-Performance
+***Performance***
 * Preciso que os seus serviços suportem um volume de 1000 requisições por segundo
 
-Artefatos
+***Artefatos***
 * Imagens e database de hoteis e disponibilidades estão na pasta arquivos
