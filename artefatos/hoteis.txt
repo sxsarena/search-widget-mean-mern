@@ -1,0 +1,200 @@
+1,mercatto casa hotel 
+2,boulevard higienopolis residence hotel 
+3,lucca hotel pousada 
+4,kananxue hotel 
+5,villa verde pousada 
+6,pousada sao silmares 
+7,hotel george sand 
+8,pousada vesuvio 
+9,aragipe praia hotel 
+10,capitao nareia pousada 
+11,hotel bellevue 
+12,155 hotel 
+13,rosenparklaurensberg 
+14,all seasons aachen city 
+15,best western residenz harzhohe 
+16,harzer land hotel 
+17,aquis grana cityhotel 
+18,mercure hotel aachen europaplatz 
+19,pullman aachen quellenhof 
+20,mimosa palace 
+21,majestic 
+22,seybouse 
+23,first hotel europa 
+24,hilton al ain hotel 
+25,city seasons al ain 
+26,danat al ain resort exintercon 
+27,mercure grand jebel hafeet 
+28,al ain rotana hotel 
+29,scandic aarhus hotel 
+30,radisson blu scandinavia hotel aarhus 
+31,plaza inn flat araxa 
+32,hotel banyan 
+33,sport vital central swiss quality hotel 
+34,hotel elisabethpark 
+35,weismayr 
+36,impuls tirol hotel 
+37,latini hotel 
+38,karwendelhof 
+39,kertess 
+40,schlosshotel rosenegg 
+41,grand hotel zell am see wellness deluxe half board 
+42,alpenhotel kindl 
+43,boutique hotel steinerwirt 1493 
+44,hotel austria bellevue 
+45,hotel goldener greif 
+46,austria trend alpine resort fieberbrunn 
+47,hotel schloss lebenberg 
+48,antonius 
+49,toni 
+50,hotel eva village 
+51,panther hotel 
+52,hotel alpenbad hohenhaus 
+53,interalpenhotel tyrol 
+54,hotel fliana 
+55,kempinski hotel das tirol 
+56,hotel badhaus 
+57,lebzelter 
+58,pension hochwimmer 
+59,schonblick 
+60,solstein 
+61,ferienhotel kaltschmid 
+62,am romerweg 
+63,hotel aktiv sparesort alpenpark 
+64,mavida 
+65,schloss pichlarn spa golf resort 
+66,eckartauerhof 
+67,hotel elisabeth 
+68,rainhof 
+69,tiefenbrunner hotel 
+70,alpenhotel oetz 
+71,kirchberger hof 
+72,cmb 
+73,hotel habicher hof 
+74,hotel gasthof mauth tui 
+75,park 
+76,pension schonblick 
+77,sonne 
+78,tauernhof 
+79,gasteheim prantl 
+80,hotel erhart 
+81,wellnesshotel schonruh 
+82,alpenhof hotel 
+83,hotel arlberg 
+84,hotel felsenhof 
+85,tannbergerhof hotel 
+86,lech chesa rosa 
+87,menthof hotel 
+88,sonnenhotel sturbanerhof 
+89,tirolerhof 
+90,mittagskogel hotel 
+91,hotel gisela 
+92,strandhotel entner 
+93,kleon hotel 
+94,hotel hindenburg 
+95,alpenhotel saalbach hotel 
+96,gasthof pension bergheimat 
+97,familienhotel vent 
+98,aqi hotel schladming 
+99,post 
+100,hotel austria 
+101,bergers sporthotel 
+102,sonngastein 
+103,kur sporthotel palace 
+104,sunny 
+105,oberforsthof 
+106,alpinasolden 
+107,sonnenresort ossiacher see 
+108,hotel alpenkrone 
+109,hotel dunza 
+110,almferienclub silbertal 
+111,gasthof weisskugel 
+112,hotel bruggerhof 
+113,harmonyhotel harfenwirt 
+114,kurund sporthotel alpenblick 
+115,gartenhotel daxer 
+116,lifthotel 
+117,kristall 
+118,hotel gasthof zur muhle 
+119,landhotel vordergrub 
+120,sportpension trauner 
+121,hotel simmerlwirt 
+122,nationalparkhotel klockerhaus 
+123,wiesenhof 
+124,liebe sonne 
+125,astrid 
+126,alpenhof 
+127,katschberghof 
+128,romerhof 
+129,larchenhof 
+130,sporthotel molltal 
+131,garni oblasser 
+132,hagleitner family balance hotel spa 
+133,kirchenwirt 
+134,hotel gasthof post 
+135,tophotel mein almhof 
+136,hotel stefanihof 
+137,schwarzer adler hotel 
+138,landgut zapfenhof 
+139,krimmlerfalle hotel 
+140,norica hotel 
+141,hotel fluchthorn 
+142,stpeter de luxe 
+143,piz hotel 
+144,klosterbraeu 
+145,vital landhotel schermer 
+146,harisch weisses rossl 
+147,kirchplatz 
+148,karl schranz 
+149,tyrol 
+150,hotel fahrner 
+151,hotel florl 
+152,hotel bergheim 
+153,hotel barenhof 
+154,der waldhof 
+155,hotel astoria 
+156,jaegerwirt 
+157,maria theresia 
+158,tirolerhof 
+159,strasshofer 
+160,zillertalerhof 
+161,hotel alpendomizil neuhaus 
+162,rauchenwalderhof 
+163,hotel alpina 
+164,hotel cristallago 
+165,stefanie hotel 
+166,hampton inn suites edmontonwest 
+167,best western plus westwood inn 
+168,best western plus denham inn suites 
+169,travelodge edmonton west hotel 
+170,best western plus south edmonton inn suites 
+171,travelodge edmonton south 
+172,delta edmonton south 
+173,quality inn edmonton intl airport 
+174,courtyard by marriott edmonton 
+175,comfort inn absecon 
+176,best western garden state inn 
+177,hotel cavaliere 
+178,ramapendula hotel 
+179,hotel astoria 
+180,gran hotel 
+181,hotel casa lorenzo 
+182,sidorme albacete 
+183,hotel castilla 
+184,hotel altozano 
+185,nh albar 
+186,parador de albacete 
+187,marquesado de almansa 
+188,hampton inn abilene 
+189,sleep inn suites abilene 
+190,hampton inn sweetwater tx 
+191,hampton inn brownwood 
+192,best western abilene inn suites 
+193,ibis marcory 
+194,pullman abidjan 
+195,albuquerquedays inn west 
+196,econo lodge 
+197,comfort inn suites north 
+198,motel 6 albuquerque south airport 
+199,la quinta inn albuquerque airport 
+200,comfort inn 
