@@ -15,5 +15,7 @@ Restrições
 Esses comandos tem que ser o suficiente para configurar meu mac os x OU ubuntu e rodar seu programa. Pode considerar que eu tenho instalado no meu sistema Python, Java, PHP, Ruby e/ou Node. Qualquer outra dependência que eu precisar vc tem que prover.
 
 Performance
-*Preciso que os seus serviços suportem um volume de 1000 requisições por segundo
+* Preciso que os seus serviços suportem um volume de 1000 requisições por segundo
 
+Artefatos
+* Imagens e database de hoteis e disponibilidades estão na pasta arquivos
