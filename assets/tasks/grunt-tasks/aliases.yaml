@@ -1,0 +1,19 @@
+default:
+    - 'clean'
+    - 'copy'
+    - 'compass'
+    - 'autoprefixer'
+    - 'cmq'
+    - 'cssmin'
+    - 'jshint'
+    - 'uglify'
+    - 'imagemin'
+
+widget:
+    - 'compass:widget'
+    - 'autoprefixer:widget'
+    - 'cmq:widget'
+    - 'cssmin:widget'
+    - 'jshint:widget'
+    - 'uglify:widget'
+    - 'imagemin:widget'

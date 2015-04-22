@@ -1,0 +1,26 @@
+// Esconder texto
+///
+/// @group 01-tools/mixins
+/// @author Hemerson Vianna
+///
+/// @access public
+///
+@mixin x-text-hide() {
+    font-size:0;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    border: 0;
+}
+
+// Clearfix
+///
+/// @group 00-core
+/// @author Hemerson Vianna
+///
+/// @access public
+///
+@mixin x-clearfix() {
+  &:before, &:after { content: " "; display: table; }
+  &:after { clear: both; }
+}

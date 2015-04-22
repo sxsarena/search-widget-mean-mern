@@ -1,0 +1,7 @@
+# http://about.travis-ci.org/docs/user/languages/php/
+language: php
+
+php:
+  - 5.4
+  - 5.5
+  - 5.6
