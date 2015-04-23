@@ -17,3 +17,4 @@ widget:
     - 'jshint:widget'
     - 'uglify:widget'
     - 'imagemin:widget'
+    - 'watch:widget'

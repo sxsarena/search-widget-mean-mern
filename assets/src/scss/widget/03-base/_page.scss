@@ -6,7 +6,6 @@
 /// @access public
 ///
 html {
-    font-size: $base-font-size;
     line-height: $base-line-height;
     background-color: $base-background-color;
     color: $base-text-color;
@@ -16,4 +15,9 @@ html {
         -ms-text-size-adjust: 100%;
     -moz-osx-font-smoothing: grayscale;
      -webkit-font-smoothing: antialiased;
+}
+
+body {
+	font-family: $base-font-family;
+	font-size: $base-font-size;
 }

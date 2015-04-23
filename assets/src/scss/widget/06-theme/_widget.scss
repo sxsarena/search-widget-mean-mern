@@ -1,0 +1,16 @@
+.widget--hotel {
+	@extend .widget;
+
+	.widget-title {
+		@extend .widget-title;
+
+		background: #40bffb;
+		text-align: center;
+	}
+
+	.widget-description {
+		@extend .widget-description;
+
+		color: #40bffb;
+	}
+}

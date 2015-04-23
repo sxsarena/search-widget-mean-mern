@@ -5,7 +5,7 @@
 ///
 /// @access public
 ///
-%fa {
+%icon {
   display: inline-block;
   font-family: "challengeicons";
   font-style: normal;
@@ -15,11 +15,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-/// Icone barra
-///
-/// @group 00-settings
-/// @author Hemerson Vianna
-///
-/// @access public
-///
-%fa-bars { content: "\f0c9"; }
+//
+%icon-bed { content: "\e600"; }
+//
+%icon-calendar { content: "\e601"; }
+//
+%icon-location { content: "\e602"; }
+//
+%icon-search { content: "\e603"; }

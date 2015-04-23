@@ -1,0 +1,32 @@
+.widget {
+	border: 1px solid #dbdbdb;
+}
+
+.widget-title {
+	@include x-icon( icon-bed );
+
+	background: #000;
+	color: #fff;
+	font-family: 'Gotham';
+	font-weight: 300;
+	font-size: 5.5em;
+	padding: 10px;
+	text-transform: uppercase;
+
+	&:before {
+		border: 4px solid #fff;
+		border-radius: 50%;
+		font-size: 24px;
+		padding: 12px 10px;
+		vertical-align: middle;
+	}
+}
+
+.widget-description {
+	color: #000;
+	font-family: 'Gotham';
+	font-weight: 500;
+	font-size: 2.9em;
+	padding: 20px 10px;
+	text-align: center;
+}

@@ -8,13 +8,13 @@
 @mixin x-icon( $name: "", $position: "left" ) {
   @if $position == "left" {
     &:before {
-      @extend %fa;
+      @extend %icon;
       @extend %#{$name};
       margin-right: 10px;
     }
   } @else if $position == "right" {
     &:after {
-      @extend %fa;
+      @extend %icon;
       @extend %#{$name};
       margin-left: 10px;
     }
