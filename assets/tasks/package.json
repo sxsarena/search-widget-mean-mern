@@ -30,5 +30,13 @@
     "load-grunt-tasks": "~0.4.0",
     "time-grunt": "~0.3.2"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": "0.12.x"
+  },
+  "scripts": {
+    "start": "",
+    "preinstall": "gem install bundler && npm install -g grunt-cli bower",
+    "postinstall": "bower install && bundle install && grunt initial"
+  }
 }
