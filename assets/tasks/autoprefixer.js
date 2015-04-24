@@ -1,13 +1,13 @@
 module.exports = function(grunt, options){
     return {
 		widget: {
-            files: [{
-                options: {
-                    browsers: ['last 20 version', 'ie 7', 'ie 8', 'ie 9']
-                },
+			options: {
+				browsers: ['last 2 versions', 'ie 8', 'ie 9']
+            },
+            multiple_files: [{
                 expand: true,
-                cwd : options.projectDir+'/css/widget/',
-                src : ['*.css'],
+      			flatten: true,
+                src : options.projectDir+'/css/widget/*.css',
                 dest: options.projectDir+'/css/widget/'
             }]
         }

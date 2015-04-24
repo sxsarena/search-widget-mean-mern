@@ -1,7 +1,7 @@
 default:
     - 'clean'
     - 'copy'
-    - 'compass'
+    - 'sass'
     - 'autoprefixer'
     - 'cmq'
     - 'cssmin'
@@ -10,7 +10,7 @@ default:
     - 'imagemin'
 
 widget:
-    - 'compass:widget'
+    - 'sass:widget'
     - 'autoprefixer:widget'
     - 'cmq:widget'
     - 'cssmin:widget'
