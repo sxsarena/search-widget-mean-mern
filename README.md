@@ -5,6 +5,6 @@
 
 >1. *git clone seu-fork*
 2. *cd seu-fork*
-3. *npm install assets/tasks*
-4. *npm start assets/tasks*
+3. *npm install*
+4. *npm start*
 

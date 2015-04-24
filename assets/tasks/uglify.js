@@ -7,8 +7,8 @@ module.exports = function(grunt, options){
         },
         widget: {
             files: {
-                '../../public/assets/app/js/widget/scripts.min.js' : [
-                    '../src/js/widget/scripts.js'
+                'public/assets/app/js/widget/scripts.min.js' : [
+                    'assets/src/js/widget/scripts.js'
                 ]
             }
         }

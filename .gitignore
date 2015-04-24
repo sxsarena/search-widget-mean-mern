@@ -1,8 +1,7 @@
 assets/src/vendor
-assets/tasks/.sass-cache
-assets/tasks/node_modules
-assets/tasks/
-assets/tasks/Gemfile.lock
+Gemfile.lock
+npm-debug.log
+.sass-cache
 node_modules
 public
 !public/index.html

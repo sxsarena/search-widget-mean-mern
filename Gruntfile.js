@@ -2,8 +2,8 @@ module.exports = function(grunt) {
 
     var dados_comuns_disponiveis_pra_todas_as_tasks = {
             projectName : 'Desafio Hotel Urbano',
-            projectDir  : '../../public/assets/app/',
-            projectDev  : '../src/',
+            projectDir  : 'public/assets/app/',
+            projectDev  : 'assets/src/',
             pkg: grunt.file.readJSON('package.json')
         };
 
@@ -15,7 +15,7 @@ module.exports = function(grunt) {
     var path = require('path');
     require('load-grunt-config')(grunt, {
         init: true,
-        configPath: path.join(process.cwd(), 'grunt-tasks'),
+        configPath: path.join(process.cwd(), 'assets/tasks'),
         data: dados_comuns_disponiveis_pra_todas_as_tasks
     });
 
