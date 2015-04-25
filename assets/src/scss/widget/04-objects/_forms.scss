@@ -1,5 +1,10 @@
 .form {
-	padding: 15px 20px;
+	padding: 15px 0;
+
+	@media(min-width:$screen-tablet-portrait) {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
 }
 
 .form-fieldset {

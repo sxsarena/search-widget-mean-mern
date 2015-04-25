@@ -9,7 +9,7 @@ module.exports = function(grunt, options){
                 src : options.projectDev+'vendor/respond/dest/respond.min.js',
                 dest: options.projectDir+'vendor/respond.min.js'
             }, {
-                src : options.projectDev+'vendor/jquery/jquery.min.js',
+                src : options.projectDev+'vendor/jquery/dist/jquery.min.js',
                 dest: options.projectDir+'vendor/jquery.min.js'
             }]
         },
