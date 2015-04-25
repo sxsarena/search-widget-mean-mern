@@ -1,0 +1,26 @@
+// Label
+///
+/// @group 04-objetcs
+/// @author Hemerson Vianna
+///
+/// @access public
+///
+.form-label {
+	color: #656565;
+	display: block;
+	font-family: 'Gotham';
+	font-weight: 700;
+	font-size: 26px;
+}
+
+.form-label--hidden {
+	@include x-text-hide;
+	position: absolute;
+}
+
+.form-label--checkbox {
+	color: #686868;
+	font-family: 'Gotham';
+	font-weight: 300;
+	font-size: 17px;
+}

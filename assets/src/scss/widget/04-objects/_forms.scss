@@ -1,96 +1,12 @@
-.form {
-	padding: 15px 0;
-
-	@media(min-width:$screen-tablet-portrait) {
-		padding-left: 20px;
-		padding-right: 20px;
-	}
-}
-
-.form-fieldset {
-	border: 0;
-}
-
-.form-legend {
-	@include x-text-hide;
-}
-
-.form-group {
-	@include x-clearfix;
-	margin-bottom: 10px;
-}
-
-.form-label {
-	color: #656565;
-	display: block;
-	font-family: 'Gotham';
-	font-weight: 700;
-	font-size: 26px;
-}
-
-.form-label--hidden {
-	@include x-text-hide;
-	position: absolute;
-}
-
-.form-field {
-	@include x-icon( icon-calendar );
-
-	border-radius: 5px;
-	border: 1px solid #e5e5e5;
-	color: #adb7c1;
-	font-family: 'Gotham';
-	font-weight: 300;
-	font-size: 26px;
-	line-height: 1;
-	padding: 20px 10px;
-	width: 100%;
-}
-
-.form-label--checkbox {
-	color: #686868;
-	font-family: 'Gotham';
-	font-weight: 300;
-	font-size: 17px;
-}
-
-.form-actions {
-	padding-top: 40px;
-	text-align: center;
-}
-
-.form-actions-submit {
-	@include x-icon( icon-search );
-
-	background: #ff7900;
-	border: none;
-	border-radius: 5px;
-	color: #fff;
-	font-family: 'Gotham';
-	font-weight: 500;
-	font-size: 22px;
-	padding: 20px 25px;
-	text-transform: uppercase;
-}
-
-// Posicionar icones para os campos dos formularios - posição left
-// Para um projeto mais complexo, criar classes prevendo posição left e right
-.form-wrapfield {
-	display: inline-block;
-	position: relative;
-	width: 100%;
-
-	.form-field {
-		padding-left: 50px;
-	}
-
-	&:before {
-		color: #ff8a21;
-		font-size: 40px;
-		margin-top: -20px;
-		position: absolute;
-		left: 10px;
-		top: 50%;
-		width: 30px;
-	}
-}
+// Forms
+///
+/// @group 04-objetcs
+/// @author Hemerson Vianna
+///
+/// @access public
+///
+@import "forms/_structure";
+@import "forms/_label";
+@import "forms/_input";
+@import "forms/_checkbox";
+@import "forms/_action";

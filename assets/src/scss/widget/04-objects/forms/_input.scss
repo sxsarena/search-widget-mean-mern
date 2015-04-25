@@ -1,0 +1,20 @@
+// Input
+///
+/// @group 04-objetcs
+/// @author Hemerson Vianna
+///
+/// @access public
+///
+.form-field {
+	@include x-icon( icon-calendar );
+
+	border-radius: 5px;
+	border: 1px solid #e5e5e5;
+	color: #adb7c1;
+	font-family: 'Gotham';
+	font-weight: 300;
+	font-size: 26px;
+	line-height: 1;
+	padding: 20px 10px;
+	width: 100%;
+}

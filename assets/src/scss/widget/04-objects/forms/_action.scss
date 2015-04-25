@@ -1,0 +1,26 @@
+// Botões de ação
+///
+/// @group 04-objetcs
+/// @author Hemerson Vianna
+///
+/// @access public
+///
+.form-actions {
+	padding-top: 40px;
+	text-align: center;
+}
+
+.form-actions-submit {
+	@include x-icon( icon-search );
+
+	background: #ff7900;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	color: #fff;
+	font-family: 'Gotham';
+	font-weight: 500;
+	font-size: 22px;
+	padding: 20px 25px;
+	text-transform: uppercase;
+}
