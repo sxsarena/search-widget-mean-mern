@@ -18,3 +18,25 @@
 	padding: 20px 10px;
 	width: 100%;
 }
+
+.error {
+	background: transparent;
+	display: inline-block;
+	position: relative;
+	width: 100%;
+}
+
+.form-field.error-field {
+	border-color: #900;
+}
+
+.error-msg {
+	background: #900;
+	color: #fff;
+	font-size: 12px;
+	padding: 2px 5px;
+	position: absolute;
+	left: 0;
+	bottom: -8px;
+	width: 100%;
+}
