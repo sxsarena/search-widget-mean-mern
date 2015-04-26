@@ -1,7 +1,6 @@
 default:
     - 'clean'
     - 'copy'
-    - 'shell'
     - 'sass'
     - 'autoprefixer'
     - 'cmq'

@@ -74,3 +74,15 @@ $('.form-field:enabled').on('keyup change', function(event) {
 	event.preventDefault();
 	new validation().init(this);
 });
+
+// typeahead
+var hotels = new Bloodhound({
+  datumTokenizer: Bloodhound.tokenizers.whitespace,
+  queryTokenizer: Bloodhound.tokenizers.whitespace,
+  prefetch: 'data/hotels.json'
+});
+ 
+$('.js-autocomplete').typeahead(null, {
+  name: 'hotels',
+  source: hotels
+});
