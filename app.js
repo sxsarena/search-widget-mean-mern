@@ -5,14 +5,18 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var routes = require('./routes/index');
-var users = require('./routes/users');
+var routes = require('./routes');
+routes.index = require('./routes/index');
+routes.search_hotels = require('./routes/search_hotels');
 
 var app = express();
+var connection  = require('express-myconnection');
+var mysql = require('mysql');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'jade');
+app.engine('html', require('ejs').renderFile);
+app.set('view engine', 'ejs');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
@@ -22,8 +26,17 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', routes);
-app.use('/users', users);
+app.use(
+    connection(mysql,{
+        host: 'localhost',
+        user: 'root',
+        password : '',
+        port : 3306, //port mysql
+        database:'desafiohu'
+    },'request')
+);
+
+app.use('/', routes.index);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -56,5 +69,5 @@ app.use(function(err, req, res, next) {
   });
 });
 
-
+app.listen(9000, '127.0.0.1')
 module.exports = app;
