@@ -7,7 +7,7 @@
 
 	background: #000;
 	color: #fff;
-	font-family: 'Gotham';
+	font-family: $base-font-gothamlight;
 	font-weight: 300;
 	font-size: 5.5em;
 	padding: 10px;
@@ -24,7 +24,7 @@
 
 .widget-description {
 	color: #000;
-	font-family: 'Gotham';
+	font-family: $base-font-gothamMedium;
 	font-weight: 500;
 	font-size: 2.9em;
 	padding: 20px 10px;

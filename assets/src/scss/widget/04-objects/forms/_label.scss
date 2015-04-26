@@ -8,7 +8,7 @@
 .form-label {
 	color: #656565;
 	display: block;
-	font-family: 'Gotham';
+	font-family: $base-font-gothamBold;
 	font-weight: 700;
 	font-size: 26px;
 }
@@ -20,7 +20,7 @@
 
 .form-label--checkbox {
 	color: #686868;
-	font-family: 'Gotham';
+	font-family: $base-font-gothamlight;
 	font-weight: 300;
 	font-size: 17px;
 }
