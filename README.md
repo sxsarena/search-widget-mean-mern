@@ -15,6 +15,8 @@ Linux
 apt-get install mongodb
 ```
 
+sudo npm install --unsafe-perm
+
 
 ***Procedimentos***
 
