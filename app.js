@@ -10,8 +10,6 @@ routes.index = require('./routes/index');
 routes.search_hotels = require('./routes/search_hotels');
 
 var app = express();
-var connection  = require('express-myconnection');
-var mysql = require('mysql');
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -26,17 +24,21 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use(
-    connection(mysql,{
-        host: 'localhost',
-        user: 'root',
-        password : '',
-        port : 3306, //port mysql
-        database:'desafiohu'
-    },'request')
-);
-
 app.use('/', routes.index);
+
+// Mongoose
+var mongoose = require('mongoose');
+mongoose.connect('mongodb://localhost/desafiohu');
+
+var db = mongoose.connection;
+
+db.on('error', console.error.bind(console, 'connection error:'));
+
+db.once('open', function (callback) {
+  console.log('Banco de dados rodando');
+});
+
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

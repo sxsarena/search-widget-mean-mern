@@ -22,8 +22,8 @@
     "ejs": "^2.3.1",
     "express": "~4.12.2",
     "express-myconnection": "^1.0.4",
+    "mongoose": "^4.0.2",
     "morgan": "~1.5.1",
-    "mysql": "git://github.com/felixge/node-mysql.git",
     "node-sass": "^2.1.1",
     "serve-favicon": "~2.2.0"
   },
