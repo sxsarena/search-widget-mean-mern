@@ -1,0 +1,1 @@
+window.Desafio = window.Desafio || {};

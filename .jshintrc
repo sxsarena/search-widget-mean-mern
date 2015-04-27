@@ -21,6 +21,7 @@
     "sub":true,
     "globals": {
         "$": true,
-        "Bloodhound": true
+        "Bloodhound": true,
+        "Desafio": true
     }
 }
