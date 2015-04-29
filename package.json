@@ -16,6 +16,7 @@
     "unsafe-perm": true
   },
   "dependencies": {
+    "body-parser": "^1.12.3",
     "ejs": "^2.3.1",
     "express": "~4.12.2",
     "express-load": "^1.1.14",
@@ -51,7 +52,7 @@
   "scripts": {
     "prestart": "",
     "start": "node app.js",
-    "preinstall": "npm install --allow-root -g grunt-cli bower",
-    "postinstall": "yes no | bower --allow-root install -s && grunt"
+    "postinstall": "yes no | bower --allow-root install -s && grunt",
+    "preinstall": "npm install --allow-root -g grunt-cli bower"
   }
 }

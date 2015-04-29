@@ -14,8 +14,6 @@ module.exports = function(grunt, options){
                 	'assets/src/vendor/pickadate/lib/legacy.js',
                 	'assets/src/vendor/pickadate/lib/translations/pt_BR.js',
                     'assets/src/vendor/typeahead.js/dist/typeahead.bundle.min.js',
-                    'assets/src/vendor/typeahead.js/dist/bloodhound.min.js',
-                    'assets/src/vendor/typeahead.js/dist/typeahead.jquery.min.js',
                     'assets/src/js/widget/_config.js',
                     'assets/src/js/widget/_plugins.js',
                     'assets/src/js/widget/_validation.js',
