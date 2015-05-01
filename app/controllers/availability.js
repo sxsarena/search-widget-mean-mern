@@ -12,11 +12,12 @@ module.exports.controller = function(app) {
   	// };
   	// res.send(product);
 
+
   	var query = {};
   	AvailabilityModel
-    .find(query, {'date':1, '_id':0})
-    .where('status').equals(1)
-    .limit(10)
+    .find(query, {})
+    //.where('status').equals(1)
+    //.limit(10)
     .exec(function (err, data) {
       if(err) {
         console.log('ERRO: ', err);
