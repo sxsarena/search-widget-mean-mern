@@ -8,3 +8,11 @@ default:
     - 'jshint'
     - 'uglify'
     - 'imagemin'
+
+widget:
+    - 'sass'
+    - 'autoprefixer'
+    - 'cmq'
+    - 'cssmin'
+    - 'jshint'
+    - 'uglify'

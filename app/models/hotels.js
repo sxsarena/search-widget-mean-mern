@@ -3,7 +3,8 @@ var mongoose = require('mongoose');
 var Schema = mongoose.Schema;
 
 var hotelSchema = new Schema({
-    cidade: String
+	hotel: String,
+    city: String
 });
 
-module.exports = mongoose.model('hotels', hotelSchema);
+module.exports = mongoose.model('Hotels', hotelSchema, 'hotels');

@@ -1,0 +1,54 @@
+<div class="widget--hotel">
+	<h1 class="widget-title">Hotéis</h1>
+
+	<p class="widget-description">+ 170.000 hotéis, pousadas e resorts no mundo todo.</p>
+
+	<form class="form" action="/availability" method="post" role="form">
+		<fieldset class="form-fieldset">
+			<legend class="form-legend">Formulário de busca</legend>
+			<div class="form-group">
+				<div class="col-xs-12 col-md-4">
+					<p class="form-group">
+						<label class="form-label" for="key">Quer ficar aonde?</label>
+						<span class="form-wrapfield icon-location">
+							<input class="form-field js-field-string js-autocomplete" data-msg-require="Campo obrigatório" id="key" name="key" type="text" placeholder="cidade ou hotel">
+						</span>
+					</p>
+				</div>
+				<div class="col-xs-12 col-md-8">
+					<div class="negside">
+						<div class="col-xs-11 col-md-offset-1">
+							<span class="form-label">Quando? (Entrada e saída)</span>
+						</div>
+						<div class="col-xs-12 col-md-5 col-md-offset-1">
+							<p class="form-group">
+								<label class="form-label--hidden" for="entry_date">Entrada</label>
+								<span class="form-wrapfield icon-calendar">
+									<input class="form-field js-date" data-msg-require="Campo obrigatório" id="entry_date" name="entry_date" type="text" placeholder="entrada">
+								</span>
+							</p>
+						</div>
+						<div class="col-xs-12 col-md-5 col-md-offset-1">
+							<p class="form-group">
+								<label class="form-label--hidden" for="release_date">Saída</label>
+								<span class="form-wrapfield icon-calendar">
+									<input class="form-field js-date" data-msg-require="Campo obrigatório" id="release_date" name="release_date" type="text" placeholder="saída">
+								</span>
+							</p>
+						</div>
+						<div class="col-xs-11 col-md-offset-1">
+							<p class="form-group">
+								<input class="form-field--checkbox js-disabledate" id="undated" name="undated" type="checkbox">
+								<label class="form-label--checkbox" for="undated">Ainda não defini a data</label>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<p class="form-actions">
+				<button class="form-actions-submit" type="submit">Buscar</button>
+			</p>
+		</fieldset>
+	</form>
+</div><!-- //widget -->

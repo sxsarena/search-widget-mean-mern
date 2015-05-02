@@ -1,500 +1,500 @@
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb927a" }, "id" : 1, "cidade" : "Araruama", "name" : "Mercatto Casa Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb927b" }, "id" : 2, "cidade" : "Macae", "name" : "Boulevard Higienopolis Residence Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb927c" }, "id" : 3, "cidade" : "Campos", "name" : "Lucca Hotel Pousada " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb927d" }, "id" : 4, "cidade" : "Resende", "name" : "Kananxue Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb927e" }, "id" : 5, "cidade" : "Araruama", "name" : "Villa Verde Pousada " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb927f" }, "id" : 6, "cidade" : "Marica", "name" : "Pousada Sao Silmares " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9280" }, "id" : 7, "cidade" : "Saquarema", "name" : "Hotel George Sand " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9281" }, "id" : 8, "cidade" : "Campos", "name" : "Pousada Vesuvio " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9282" }, "id" : 9, "cidade" : "Duque De Caxias", "name" : "Aragipe Praia Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9283" }, "id" : 10, "cidade" : "Penedo", "name" : "Capitao Nareia Pousada " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9284" }, "id" : 11, "cidade" : "Penedo", "name" : "Hotel Bellevue " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9285" }, "id" : 12, "cidade" : "Itatiaia", "name" : "155 Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9286" }, "id" : 13, "cidade" : "Angra Dos Reis", "name" : "Rosenparklaurensberg " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9287" }, "id" : 14, "cidade" : "Itaguaí", "name" : "All Seasons Aachen City " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9288" }, "id" : 15, "cidade" : "Itaipava", "name" : "Best Western Residenz Harzhohe " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9289" }, "id" : 16, "cidade" : "Resende", "name" : "Harzer Land Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb928a" }, "id" : 17, "cidade" : "Niteroi", "name" : "Aquis Grana Cityhotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb928b" }, "id" : 18, "cidade" : "Itatiaia", "name" : "Mercure Hotel Aachen Europaplatz " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb928c" }, "id" : 19, "cidade" : "Araruama", "name" : "Pullman Aachen Quellenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb928d" }, "id" : 20, "cidade" : "Niteroi", "name" : "Mimosa Palace " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb928e" }, "id" : 21, "cidade" : "Nova Iguacu", "name" : "Majestic " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb928f" }, "id" : 22, "cidade" : "Sao Pedro Da Aldeia", "name" : "Seybouse " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9290" }, "id" : 23, "cidade" : "Quissama", "name" : "First Hotel Europa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9291" }, "id" : 24, "cidade" : "Nova Iguacu", "name" : "Hilton Al Ain Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9292" }, "id" : 25, "cidade" : "Penedo", "name" : "City Seasons Al Ain " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9293" }, "id" : 26, "cidade" : "Ilha Grande", "name" : "Danat Al Ain Resort Exintercon " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9294" }, "id" : 27, "cidade" : "Rio De Janeiro", "name" : "Mercure Grand Jebel Hafeet " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9295" }, "id" : 28, "cidade" : "Volta Redonda", "name" : "Al Ain Rotana Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9296" }, "id" : 29, "cidade" : "Arraial Do Cabo", "name" : "Scandic Aarhus Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9297" }, "id" : 30, "cidade" : "Rio Das Ostras", "name" : "Radisson Blu Scandinavia Hotel Aarhus " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9298" }, "id" : 31, "cidade" : "Quissama", "name" : "Plaza Inn Flat Araxa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9299" }, "id" : 32, "cidade" : "Itatiaia", "name" : "Hotel Banyan " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb929a" }, "id" : 33, "cidade" : "Miguel Pereira", "name" : "Sport Vital Central Swiss Quality Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb929b" }, "id" : 34, "cidade" : "Itatiaia", "name" : "Hotel Elisabethpark " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb929c" }, "id" : 35, "cidade" : "Saquarema", "name" : "Weismayr " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb929d" }, "id" : 36, "cidade" : "Niteroi", "name" : "Impuls Tirol Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb929e" }, "id" : 37, "cidade" : "Nova Friburgo", "name" : "Latini Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb929f" }, "id" : 38, "cidade" : "Ilha Grande", "name" : "Karwendelhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a0" }, "id" : 39, "cidade" : "Itaperuna", "name" : "Kertess " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a1" }, "id" : 40, "cidade" : "Saquarema", "name" : "Schlosshotel Rosenegg " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a2" }, "id" : 41, "cidade" : "Itaipava", "name" : "Grand Hotel Zell Am See Wellness Deluxe Half Board" }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a3" }, "id" : 42, "cidade" : "Marica", "name" : "Alpenhotel Kindl " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a4" }, "id" : 43, "cidade" : "Jabaquara", "name" : "Boutique Hotel Steinerwirt 1493 " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a5" }, "id" : 44, "cidade" : "Itatiaia", "name" : "Hotel Austria Bellevue " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a6" }, "id" : 45, "cidade" : "Rio De Janeiro", "name" : "Hotel Goldener Greif " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a7" }, "id" : 46, "cidade" : "Barra Mansa", "name" : "Austria Trend Alpine Resort Fieberbrunn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a8" }, "id" : 47, "cidade" : "Macae", "name" : "Hotel Schloss Lebenberg " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92a9" }, "id" : 48, "cidade" : "Itaperuna", "name" : "Antonius " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92aa" }, "id" : 49, "cidade" : "Petropolis", "name" : "Toni " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ab" }, "id" : 50, "cidade" : "Ilha Grande", "name" : "Hotel Eva Village " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ac" }, "id" : 51, "cidade" : "Paraty", "name" : "Panther Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ad" }, "id" : 52, "cidade" : "Marica", "name" : "Hotel Alpenbad Hohenhaus " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ae" }, "id" : 53, "cidade" : "Nilopolis", "name" : "Interalpenhotel Tyrol " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92af" }, "id" : 54, "cidade" : "Nilopolis", "name" : "Hotel Fliana " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b0" }, "id" : 55, "cidade" : "Paraty", "name" : "Kempinski Hotel Das Tirol " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b1" }, "id" : 56, "cidade" : "Angra Dos Reis", "name" : "Hotel Badhaus " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b2" }, "id" : 57, "cidade" : "Ilha Grande", "name" : "Lebzelter " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b3" }, "id" : 58, "cidade" : "Nova Iguacu", "name" : "Pension Hochwimmer " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b4" }, "id" : 59, "cidade" : "Vassouras", "name" : "Schonblick " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b5" }, "id" : 60, "cidade" : "Barra Do Pirai", "name" : "Solstein " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b6" }, "id" : 61, "cidade" : "Paraty", "name" : "Ferienhotel Kaltschmid " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b7" }, "id" : 62, "cidade" : "Araruama", "name" : "Am Romerweg " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b8" }, "id" : 63, "cidade" : "Búzios", "name" : "Hotel Aktiv Sparesort Alpenpark " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92b9" }, "id" : 64, "cidade" : "Barra Mansa", "name" : "Mavida " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ba" }, "id" : 65, "cidade" : "Teresopolis", "name" : "Schloss Pichlarn Spa Golf Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92bb" }, "id" : 66, "cidade" : "Duque De Caxias", "name" : "Eckartauerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92bc" }, "id" : 67, "cidade" : "Itaperuna", "name" : "Hotel Elisabeth " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92bd" }, "id" : 68, "cidade" : "Macae", "name" : "Rainhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92be" }, "id" : 69, "cidade" : "Campos Dos Goytacazes", "name" : "Tiefenbrunner Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92bf" }, "id" : 70, "cidade" : "Cabo Frio", "name" : "Alpenhotel Oetz " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c0" }, "id" : 71, "cidade" : "Nilopolis", "name" : "Kirchberger Hof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c1" }, "id" : 72, "cidade" : "Jacarepagua", "name" : "Cmb " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c2" }, "id" : 73, "cidade" : "Trindade", "name" : "Hotel Habicher Hof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c3" }, "id" : 74, "cidade" : "Rio Claro", "name" : "Hotel Gasthof Mauth Tui " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c4" }, "id" : 75, "cidade" : "Galeao", "name" : "Park " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c5" }, "id" : 76, "cidade" : "Miguel Pereira", "name" : "Pension Schonblick " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c6" }, "id" : 77, "cidade" : "Campos", "name" : "Sonne " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c7" }, "id" : 78, "cidade" : "Itaborai", "name" : "Tauernhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c8" }, "id" : 79, "cidade" : "Belford Roxo", "name" : "Gasteheim Prantl " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92c9" }, "id" : 80, "cidade" : "Nova Friburgo", "name" : "Hotel Erhart " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ca" }, "id" : 81, "cidade" : "Ilha Grande", "name" : "Wellnesshotel Schonruh " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92cb" }, "id" : 82, "cidade" : "Nova Iguacu", "name" : "Alpenhof Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92cc" }, "id" : 83, "cidade" : "Itaborai", "name" : "Hotel Arlberg " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92cd" }, "id" : 84, "cidade" : "Quissama", "name" : "Hotel Felsenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ce" }, "id" : 85, "cidade" : "Itaguaí", "name" : "Tannbergerhof Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92cf" }, "id" : 86, "cidade" : "Jabaquara", "name" : "Lech Chesa Rosa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d0" }, "id" : 87, "cidade" : "Angra Dos Reis", "name" : "Menthof Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d1" }, "id" : 88, "cidade" : "Mangaratiba", "name" : "Sonnenhotel Sturbanerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d2" }, "id" : 89, "cidade" : "Rio Claro", "name" : "Tirolerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d3" }, "id" : 90, "cidade" : "Quissama", "name" : "Mittagskogel Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d4" }, "id" : 91, "cidade" : "Belford Roxo", "name" : "Hotel Gisela " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d5" }, "id" : 92, "cidade" : "Nova Friburgo", "name" : "Strandhotel Entner " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d6" }, "id" : 93, "cidade" : "Itatiaia", "name" : "Kleon Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d7" }, "id" : 94, "cidade" : "Rio Das Ostras", "name" : "Hotel Hindenburg " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d8" }, "id" : 95, "cidade" : "Nova Friburgo", "name" : "Alpenhotel Saalbach Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92d9" }, "id" : 96, "cidade" : "Volta Redonda", "name" : "Gasthof Pension Bergheimat " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92da" }, "id" : 97, "cidade" : "Nilopolis", "name" : "Familienhotel Vent " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92db" }, "id" : 98, "cidade" : "Itaguaí", "name" : "Aqi Hotel Schladming " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92dc" }, "id" : 99, "cidade" : "Angra Dos Reis", "name" : "Post " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92dd" }, "id" : 100, "cidade" : "Paraty", "name" : "Hotel Austria " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92de" }, "id" : 101, "cidade" : "Angra Dos Reis", "name" : "Bergers Sporthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92df" }, "id" : 102, "cidade" : "Campos", "name" : "Sonngastein " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e0" }, "id" : 103, "cidade" : "Barra Do Pirai", "name" : "Kur Sporthotel Palace " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e1" }, "id" : 104, "cidade" : "Barra Do Pirai", "name" : "Sunny " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e2" }, "id" : 105, "cidade" : "Jacarepagua", "name" : "Oberforsthof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e3" }, "id" : 106, "cidade" : "Sao Pedro Da Aldeia", "name" : "Alpinasolden " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e4" }, "id" : 107, "cidade" : "Macae", "name" : "Sonnenresort Ossiacher See " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e5" }, "id" : 108, "cidade" : "Petropolis", "name" : "Hotel Alpenkrone " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e6" }, "id" : 109, "cidade" : "Santa Teresa", "name" : "Hotel Dunza " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e7" }, "id" : 110, "cidade" : "Nova Iguacu", "name" : "Almferienclub Silbertal " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e8" }, "id" : 111, "cidade" : "São Gonçalo", "name" : "Gasthof Weisskugel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92e9" }, "id" : 112, "cidade" : "Araruama", "name" : "Hotel Bruggerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ea" }, "id" : 113, "cidade" : "Itaborai", "name" : "Harmonyhotel Harfenwirt " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92eb" }, "id" : 114, "cidade" : "Itatiaia", "name" : "Kurund Sporthotel Alpenblick " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ec" }, "id" : 115, "cidade" : "Duque De Caxias", "name" : "Gartenhotel Daxer " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ed" }, "id" : 116, "cidade" : "Belford Roxo", "name" : "Lifthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ee" }, "id" : 117, "cidade" : "Nilopolis", "name" : "Kristall " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ef" }, "id" : 118, "cidade" : "Saquarema", "name" : "Hotel Gasthof Zur Muhle " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f0" }, "id" : 119, "cidade" : "Macae", "name" : "Landhotel Vordergrub " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f1" }, "id" : 120, "cidade" : "Vassouras", "name" : "Sportpension Trauner " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f2" }, "id" : 121, "cidade" : "Niteroi", "name" : "Hotel Simmerlwirt " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f3" }, "id" : 122, "cidade" : "Campos", "name" : "Nationalparkhotel Klockerhaus " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f4" }, "id" : 123, "cidade" : "Miguel Pereira", "name" : "Wiesenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f5" }, "id" : 124, "cidade" : "Arraial Do Cabo", "name" : "Liebe Sonne " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f6" }, "id" : 125, "cidade" : "Rio De Janeiro", "name" : "Astrid " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f7" }, "id" : 126, "cidade" : "Volta Redonda", "name" : "Alpenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f8" }, "id" : 127, "cidade" : "Paraty", "name" : "Katschberghof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92f9" }, "id" : 128, "cidade" : "Nilopolis", "name" : "Romerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92fa" }, "id" : 129, "cidade" : "Vassouras", "name" : "Larchenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92fb" }, "id" : 130, "cidade" : "Quissama", "name" : "Sporthotel Molltal " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92fc" }, "id" : 131, "cidade" : "Paraty", "name" : "Garni Oblasser " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92fd" }, "id" : 132, "cidade" : "Galeao", "name" : "Hagleitner Family Balance Hotel Spa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92fe" }, "id" : 133, "cidade" : "Itatiaia", "name" : "Kirchenwirt " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb92ff" }, "id" : 134, "cidade" : "Cabo Frio", "name" : "Hotel Gasthof Post " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9300" }, "id" : 135, "cidade" : "Macae", "name" : "Tophotel Mein Almhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9301" }, "id" : 136, "cidade" : "Nilopolis", "name" : "Hotel Stefanihof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9302" }, "id" : 137, "cidade" : "Itaperuna", "name" : "Schwarzer Adler Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9303" }, "id" : 138, "cidade" : "Resende", "name" : "Landgut Zapfenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9304" }, "id" : 139, "cidade" : "Sao Pedro Da Aldeia", "name" : "Krimmlerfalle Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9305" }, "id" : 140, "cidade" : "Cabo Frio", "name" : "Norica Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9306" }, "id" : 141, "cidade" : "Rio De Janeiro", "name" : "Hotel Fluchthorn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9307" }, "id" : 142, "cidade" : "Resende", "name" : "Stpeter De Luxe " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9308" }, "id" : 143, "cidade" : "Miguel Pereira", "name" : "Piz Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9309" }, "id" : 144, "cidade" : "Niteroi", "name" : "Klosterbraeu " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb930a" }, "id" : 145, "cidade" : "Duque De Caxias", "name" : "Vital Landhotel Schermer " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb930b" }, "id" : 146, "cidade" : "Itaperuna", "name" : "Harisch Weisses Rossl " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb930c" }, "id" : 147, "cidade" : "Nilopolis", "name" : "Kirchplatz " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb930d" }, "id" : 148, "cidade" : "Cabo Frio", "name" : "Karl Schranz " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb930e" }, "id" : 149, "cidade" : "Teresopolis", "name" : "Tyrol " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb930f" }, "id" : 150, "cidade" : "Niteroi", "name" : "Hotel Fahrner " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9310" }, "id" : 151, "cidade" : "Miguel Pereira", "name" : "Hotel Florl " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9311" }, "id" : 152, "cidade" : "Duque De Caxias", "name" : "Hotel Bergheim " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9312" }, "id" : 153, "cidade" : "Angra Dos Reis", "name" : "Hotel Barenhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9313" }, "id" : 154, "cidade" : "São Gonçalo", "name" : "Der Waldhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9314" }, "id" : 155, "cidade" : "Volta Redonda", "name" : "Hotel Astoria " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9315" }, "id" : 156, "cidade" : "Niteroi", "name" : "Jaegerwirt " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9316" }, "id" : 157, "cidade" : "Itatiaia", "name" : "Maria Theresia " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9317" }, "id" : 158, "cidade" : "Volta Redonda", "name" : "Tirolerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9318" }, "id" : 159, "cidade" : "Angra Dos Reis", "name" : "Strasshofer " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9319" }, "id" : 160, "cidade" : "Itaipava", "name" : "Zillertalerhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb931a" }, "id" : 161, "cidade" : "Volta Redonda", "name" : "Hotel Alpendomizil Neuhaus " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb931b" }, "id" : 162, "cidade" : "Itaguaí", "name" : "Rauchenwalderhof " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb931c" }, "id" : 163, "cidade" : "Jabaquara", "name" : "Hotel Alpina " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb931d" }, "id" : 164, "cidade" : "Santa Teresa", "name" : "Hotel Cristallago " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb931e" }, "id" : 165, "cidade" : "Teresopolis", "name" : "Stefanie Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb931f" }, "id" : 166, "cidade" : "Sao Pedro Da Aldeia", "name" : "Hampton Inn Suites Edmontonwest " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9320" }, "id" : 167, "cidade" : "Trindade", "name" : "Best Western Plus Westwood Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9321" }, "id" : 168, "cidade" : "Niteroi", "name" : "Best Western Plus Denham Inn Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9322" }, "id" : 169, "cidade" : "Galeao", "name" : "Travelodge Edmonton West Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9323" }, "id" : 170, "cidade" : "Nova Friburgo", "name" : "Best Western Plus South Edmonton Inn Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9324" }, "id" : 171, "cidade" : "Itaborai", "name" : "Travelodge Edmonton South " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9325" }, "id" : 172, "cidade" : "São Gonçalo", "name" : "Delta Edmonton South " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9326" }, "id" : 173, "cidade" : "Miguel Pereira", "name" : "Quality Inn Edmonton Intl Airport " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9327" }, "id" : 174, "cidade" : "Nova Iguacu", "name" : "Courtyard By Marriott Edmonton " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9328" }, "id" : 175, "cidade" : "Miguel Pereira", "name" : "Comfort Inn Absecon " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9329" }, "id" : 176, "cidade" : "Campos", "name" : "Best Western Garden State Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb932a" }, "id" : 177, "cidade" : "Búzios", "name" : "Hotel Cavaliere " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb932b" }, "id" : 178, "cidade" : "Rio Das Ostras", "name" : "Ramapendula Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb932c" }, "id" : 179, "cidade" : "Araruama", "name" : "Hotel Astoria " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb932d" }, "id" : 180, "cidade" : "Marica", "name" : "Gran Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb932e" }, "id" : 181, "cidade" : "Arraial Do Cabo", "name" : "Hotel Casa Lorenzo " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb932f" }, "id" : 182, "cidade" : "São Gonçalo", "name" : "Sidorme Albacete " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9330" }, "id" : 183, "cidade" : "Belford Roxo", "name" : "Hotel Castilla " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9331" }, "id" : 184, "cidade" : "Miguel Pereira", "name" : "Hotel Altozano " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9332" }, "id" : 185, "cidade" : "Nova Friburgo", "name" : "Nh Albar " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9333" }, "id" : 186, "cidade" : "Vassouras", "name" : "Parador De Albacete " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9334" }, "id" : 187, "cidade" : "Penedo", "name" : "Marquesado De Almansa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9335" }, "id" : 188, "cidade" : "Campos", "name" : "Hampton Inn Abilene " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9336" }, "id" : 189, "cidade" : "Angra Dos Reis", "name" : "Sleep Inn Suites Abilene " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9337" }, "id" : 190, "cidade" : "Jacarepagua", "name" : "Hampton Inn Sweetwater Tx " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9338" }, "id" : 191, "cidade" : "Itaperuna", "name" : "Hampton Inn Brownwood " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9339" }, "id" : 192, "cidade" : "São Gonçalo", "name" : "Best Western Abilene Inn Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb933a" }, "id" : 193, "cidade" : "São Pedro Da Serra", "name" : "Ibis Marcory " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb933b" }, "id" : 194, "cidade" : "Itaguaí", "name" : "Pullman Abidjan " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb933c" }, "id" : 195, "cidade" : "Itaguaí", "name" : "Albuquerquedays Inn West " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb933d" }, "id" : 196, "cidade" : "Itaperuna", "name" : "Econo Lodge " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb933e" }, "id" : 197, "cidade" : "Vassouras", "name" : "Comfort Inn Suites North " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb933f" }, "id" : 198, "cidade" : "Macae", "name" : "Motel 6 Albuquerque South Airport " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9340" }, "id" : 199, "cidade" : "Galeao", "name" : "La Quinta Inn Albuquerque Airport " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9341" }, "id" : 200, "cidade" : "Duque De Caxias", "name" : "Comfort Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9342" }, "id" : 201, "cidade" : "Araruama", "name" : "Hilton Garden Inn Albuq Nrio Rancho " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9343" }, "id" : 202, "cidade" : "Volta Redonda", "name" : "Hampton Inn Albuquerqueairport " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9344" }, "id" : 203, "cidade" : "Paraty", "name" : "Homewood Suites By Hilton Albuquerque Uptown " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9345" }, "id" : 204, "cidade" : "Quissama", "name" : "Hampton Inn Suites Albuquerquecoors Road " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9346" }, "id" : 205, "cidade" : "Jabaquara", "name" : "Embassy Suites Albuquerque Hot " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9347" }, "id" : 206, "cidade" : "Volta Redonda", "name" : "Best Western Plus Rio Grande Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9348" }, "id" : 207, "cidade" : "Paraty", "name" : "Rodeway Inn Midtown " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9349" }, "id" : 208, "cidade" : "Paraty", "name" : "Ramada Albuquerque Airport " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb934a" }, "id" : 209, "cidade" : "Itaguaí", "name" : "Comfort Inn West " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb934b" }, "id" : 210, "cidade" : "Nova Friburgo", "name" : "Sleep Inn Airport " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb934c" }, "id" : 211, "cidade" : "Itaperuna", "name" : "Red Roof Inn Suites Albuquerque " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb934d" }, "id" : 212, "cidade" : "São Gonçalo", "name" : "Hotel Duca Degli Abruzzi " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb934e" }, "id" : 213, "cidade" : "São Pedro Da Serra", "name" : "Breaking Business Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb934f" }, "id" : 214, "cidade" : "Barra Mansa", "name" : "Best Western Parco Paglia Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9350" }, "id" : 215, "cidade" : "Macae", "name" : "Dinas Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9351" }, "id" : 216, "cidade" : "Mangaratiba", "name" : "Protea Hotel Asokoro " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9352" }, "id" : 217, "cidade" : "Parati", "name" : "Hilton Garden Inn Albany Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9353" }, "id" : 218, "cidade" : "Duque De Caxias", "name" : "Hampton Inn Albany At Albany Mall " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9354" }, "id" : 219, "cidade" : "Itatiaia", "name" : "Best Western Albany Mall Inn Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9355" }, "id" : 220, "cidade" : "Ilha Grande", "name" : "Quality Inn Merry Acres " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9356" }, "id" : 221, "cidade" : "Resende", "name" : "Sleep Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9357" }, "id" : 222, "cidade" : "Búzios", "name" : "Meldrum House Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9358" }, "id" : 223, "cidade" : "Campos", "name" : "Aberdeen Youth " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9359" }, "id" : 224, "cidade" : "Arraial Do Cabo", "name" : "Mercure Ardoe House Hotel Spa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb935a" }, "id" : 225, "cidade" : "Santa Teresa", "name" : "Loch Kinord Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb935b" }, "id" : 226, "cidade" : "Ilha Grande", "name" : "Norwood Hall Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb935c" }, "id" : 227, "cidade" : "Resende", "name" : "Swallow Thainstone House Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb935d" }, "id" : 228, "cidade" : "Arraial Do Cabo", "name" : "Thistle Aberdeen Airport Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb935e" }, "id" : 229, "cidade" : "São Gonçalo", "name" : "Holiday Inn Express Aberdeen City Centre " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb935f" }, "id" : 230, "cidade" : "Saquarema", "name" : "Doubletree By Hilton Aberdeen City Centre " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9360" }, "id" : 231, "cidade" : "Nova Iguacu", "name" : "Kilmarnock Arms Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9361" }, "id" : 232, "cidade" : "Cabo Frio", "name" : "Hotel Aberdeen Douglas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9362" }, "id" : 233, "cidade" : "Saquarema", "name" : "Hilton Aberdeen Treetops Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9363" }, "id" : 234, "cidade" : "Nova Friburgo", "name" : "Banff Springs Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9364" }, "id" : 235, "cidade" : "Araruama", "name" : "Huntly Arms Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9365" }, "id" : 236, "cidade" : "Santa Teresa", "name" : "Station Hotel Aberdeen " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9366" }, "id" : 237, "cidade" : "Paraty", "name" : "Holiday Inn Aberdeenwest " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9367" }, "id" : 238, "cidade" : "Itaperuna", "name" : "Thistle Aberdeen Altens Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9368" }, "id" : 239, "cidade" : "Petropolis", "name" : "Hotel Aberdeen Marriott " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9369" }, "id" : 240, "cidade" : "Teresopolis", "name" : "Carmelite Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb936a" }, "id" : 241, "cidade" : "Itaborai", "name" : "Quality Suites Spa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb936b" }, "id" : 242, "cidade" : "São Pedro Da Serra", "name" : "Residhome Arcachon Plazza " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb936c" }, "id" : 243, "cidade" : "São Pedro Da Serra", "name" : "Maeva Le Trianon " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb936d" }, "id" : 244, "cidade" : "Itaipava", "name" : "Maeva La Jetee Des Marins " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb936e" }, "id" : 245, "cidade" : "Nova Iguacu", "name" : "Novotel Arcachon " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb936f" }, "id" : 246, "cidade" : "Itatiaia", "name" : "Ocean Breeze Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9370" }, "id" : 247, "cidade" : "Rio Das Ostras", "name" : "Hotel Encanto " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9371" }, "id" : 248, "cidade" : "Vassouras", "name" : "One Acapulco Costera " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9372" }, "id" : 249, "cidade" : "São Gonçalo", "name" : "Hotel Boutique Casa Yalma Kaan " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9373" }, "id" : 250, "cidade" : "Petropolis", "name" : "Holiday Inn Resort Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9374" }, "id" : 251, "cidade" : "Búzios", "name" : "Hotel Baxar " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9375" }, "id" : 252, "cidade" : "Santa Teresa", "name" : "Crowne Plaza Hotel Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9376" }, "id" : 253, "cidade" : "Santa Teresa", "name" : "Park Royal Acapulco All Inclusive " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9377" }, "id" : 254, "cidade" : "Itaipava", "name" : "Alba Suites Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9378" }, "id" : 255, "cidade" : "Jabaquara", "name" : "Auto Hotel Ritz " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9379" }, "id" : 256, "cidade" : "Resende", "name" : "Romano Palace Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb937a" }, "id" : 257, "cidade" : "Itaperuna", "name" : "Tortuga Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb937b" }, "id" : 258, "cidade" : "Barra Do Pirai", "name" : "Playa Suites Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb937c" }, "id" : 259, "cidade" : "Barra Do Pirai", "name" : "El Hotelito " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb937d" }, "id" : 260, "cidade" : "Duque De Caxias", "name" : "Acapulco Malibu Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb937e" }, "id" : 261, "cidade" : "Belford Roxo", "name" : "Hotel Calinda Beach Acapulco " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb937f" }, "id" : 262, "cidade" : "Parati", "name" : "The Fairmont Pierre Marques " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9380" }, "id" : 263, "cidade" : "Parati", "name" : "Acasol Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9381" }, "id" : 264, "cidade" : "Campos Dos Goytacazes", "name" : "Las Torres Gemelas Private Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9382" }, "id" : 265, "cidade" : "Rio Claro", "name" : "Riviera Park " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9383" }, "id" : 266, "cidade" : "Arraial Do Cabo", "name" : "Agua Marina " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9384" }, "id" : 267, "cidade" : "Marica", "name" : "Cay Beach Papagayo " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9385" }, "id" : 268, "cidade" : "Quissama", "name" : "Villas Mammamia " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9386" }, "id" : 269, "cidade" : "Marica", "name" : "Isabel Apartamentos Incl Rent A Car " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9387" }, "id" : 270, "cidade" : "Rio Das Ostras", "name" : "Finca La Crucita Incl Rent A Car " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9388" }, "id" : 271, "cidade" : "Macae", "name" : "Fayna " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9389" }, "id" : 272, "cidade" : "Itaipava", "name" : "Tabaiba Center Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb938a" }, "id" : 273, "cidade" : "Cabo Frio", "name" : "Sol Lanzarote Residente Canario " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb938b" }, "id" : 274, "cidade" : "Santa Teresa", "name" : "Los Tulipanes Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb938c" }, "id" : 275, "cidade" : "Santa Teresa", "name" : "Paradise Island " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb938d" }, "id" : 276, "cidade" : "Itatiaia", "name" : "San Marcial Apartamentos Incl Rent A Car " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb938e" }, "id" : 277, "cidade" : "Petropolis", "name" : "H10 Bahia Blanca Rock " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb938f" }, "id" : 278, "cidade" : "Itaborai", "name" : "Hotel Blue Sea Corbeta " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9390" }, "id" : 279, "cidade" : "Búzios", "name" : "Las Cascadas Apartments " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9391" }, "id" : 280, "cidade" : "Belford Roxo", "name" : "Hotel Riu Olivina Resort All Inclusive " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9392" }, "id" : 281, "cidade" : "Campos", "name" : "Sun Park Aparthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9393" }, "id" : 282, "cidade" : "Rio Das Ostras", "name" : "H10 Lanzarote Princess Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9394" }, "id" : 283, "cidade" : "Nova Friburgo", "name" : "Playa Pocillos Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9395" }, "id" : 284, "cidade" : "Nova Friburgo", "name" : "El Guarapo Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9396" }, "id" : 285, "cidade" : "Barra Mansa", "name" : "Villas La Bocaina " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9397" }, "id" : 286, "cidade" : "Volta Redonda", "name" : "Vik Club Coral Beach Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9398" }, "id" : 287, "cidade" : "Itatiaia", "name" : "Villas Brisa Marina " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9399" }, "id" : 288, "cidade" : "Quissama", "name" : "Hotel Costa Calero " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb939a" }, "id" : 289, "cidade" : "Saquarema", "name" : "Villa Mango " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb939b" }, "id" : 290, "cidade" : "São Gonçalo", "name" : "Villa Christina " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb939c" }, "id" : 291, "cidade" : "São Gonçalo", "name" : "Casitas Alondra " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb939d" }, "id" : 292, "cidade" : "Niteroi", "name" : "Atlantis Las Lomas Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb939e" }, "id" : 293, "cidade" : "Barra Do Pirai", "name" : "Finca La Florida " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb939f" }, "id" : 294, "cidade" : "Rio Das Ostras", "name" : "Luabay Lanzarote Beach Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a0" }, "id" : 295, "cidade" : "São Gonçalo", "name" : "Los Hibiscos Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a1" }, "id" : 296, "cidade" : "Mangaratiba", "name" : "Guacimeta Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a2" }, "id" : 297, "cidade" : "Galeao", "name" : "Los Zocos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a3" }, "id" : 298, "cidade" : "Nilopolis", "name" : "Santa Rosa Aparthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a4" }, "id" : 299, "cidade" : "Barra Mansa", "name" : "Villas Salinas Matagorda " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a5" }, "id" : 300, "cidade" : "Angra Dos Reis", "name" : "Las Colinas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a6" }, "id" : 301, "cidade" : "Campos Dos Goytacazes", "name" : "Oceano Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a7" }, "id" : 302, "cidade" : "Jabaquara", "name" : "Finca La Calerita " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a8" }, "id" : 303, "cidade" : "Santa Teresa", "name" : "Hd Beach Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93a9" }, "id" : 304, "cidade" : "Volta Redonda", "name" : "Be Live Grand Teguise Playa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93aa" }, "id" : 305, "cidade" : "Itaguaí", "name" : "Be Live Lanzarote Resort Ex Oasis Lanzarote " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ab" }, "id" : 306, "cidade" : "Nova Iguacu", "name" : "Las Caletas Village " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ac" }, "id" : 307, "cidade" : "Cabo Frio", "name" : "Villas Janubio " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ad" }, "id" : 308, "cidade" : "Niteroi", "name" : "Playa Club " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ae" }, "id" : 309, "cidade" : "Rio De Janeiro", "name" : "El Dorado " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93af" }, "id" : 310, "cidade" : "Rio De Janeiro", "name" : "Bungalows Coloradamar " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b0" }, "id" : 311, "cidade" : "Itaguaí", "name" : "Los Gracioseros " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b1" }, "id" : 312, "cidade" : "Itaipava", "name" : "Villas Los Colores " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b2" }, "id" : 313, "cidade" : "Nova Friburgo", "name" : "H10 Rubicon Palace Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b3" }, "id" : 314, "cidade" : "Santa Teresa", "name" : "Hl Club Playa Blanca " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b4" }, "id" : 315, "cidade" : "Itaguaí", "name" : "Apartamentos Acuario Sol " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b5" }, "id" : 316, "cidade" : "Araruama", "name" : "Casa Del Embajador " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b6" }, "id" : 317, "cidade" : "Angra Dos Reis", "name" : "Panorama " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b7" }, "id" : 318, "cidade" : "Galeao", "name" : "Lanzarote Paradise Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b8" }, "id" : 319, "cidade" : "Itatiaia", "name" : "Sandos Papagayo Beach Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93b9" }, "id" : 320, "cidade" : "Itaguaí", "name" : "Hipotels Natura Palace " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ba" }, "id" : 321, "cidade" : "Rio Das Ostras", "name" : "Lanzarote Village " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93bb" }, "id" : 322, "cidade" : "Macae", "name" : "Balcon Del Mar Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93bc" }, "id" : 323, "cidade" : "Quissama", "name" : "Iberostar Papagayo " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93bd" }, "id" : 324, "cidade" : "Cabo Frio", "name" : "Hotel Barcelo Lanzarote Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93be" }, "id" : 325, "cidade" : "Araruama", "name" : "Hipotels La Geria " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93bf" }, "id" : 326, "cidade" : "Sao Pedro Da Aldeia", "name" : "Thb Flora Aparthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c0" }, "id" : 327, "cidade" : "Araruama", "name" : "Costa Sal " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c1" }, "id" : 328, "cidade" : "Ilha Grande", "name" : "Rocas Blancas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c2" }, "id" : 329, "cidade" : "Jabaquara", "name" : "El Trebol Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c3" }, "id" : 330, "cidade" : "São Gonçalo", "name" : "Cinco Plazas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c4" }, "id" : 331, "cidade" : "Nova Iguacu", "name" : "Iberostar La Bocayna Village " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c5" }, "id" : 332, "cidade" : "Teresopolis", "name" : "Sands Beach Villas Resort Uk " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c6" }, "id" : 333, "cidade" : "Duque De Caxias", "name" : "Las Costas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c7" }, "id" : 334, "cidade" : "Nova Iguacu", "name" : "Los Pueblos Aptos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c8" }, "id" : 335, "cidade" : "Volta Redonda", "name" : "Playamar Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93c9" }, "id" : 336, "cidade" : "Ilha Grande", "name" : "Hotel Royal Monica " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ca" }, "id" : 337, "cidade" : "Parati", "name" : "Mansion Nazaret Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93cb" }, "id" : 338, "cidade" : "Paraty", "name" : "Luz Y Mar Apartaments " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93cc" }, "id" : 339, "cidade" : "Parati", "name" : "Celeste Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93cd" }, "id" : 340, "cidade" : "Nilopolis", "name" : "Iberostar Lanzarote Park Aparthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ce" }, "id" : 341, "cidade" : "Arraial Do Cabo", "name" : "Hotel Hesperia Lanzarote " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93cf" }, "id" : 342, "cidade" : "Nilopolis", "name" : "Sun Grove Villas Spa Incl Rent A Car " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d0" }, "id" : 343, "cidade" : "Niteroi", "name" : "Villa Alena " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d1" }, "id" : 344, "cidade" : "Santa Teresa", "name" : "Vistas Salinas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d2" }, "id" : 345, "cidade" : "Rio Claro", "name" : "Velazquez " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d3" }, "id" : 346, "cidade" : "Niteroi", "name" : "Hotel Diamar " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d4" }, "id" : 347, "cidade" : "Itaipava", "name" : "Los Fariones Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d5" }, "id" : 348, "cidade" : "Penedo", "name" : "Apartamentos Aguazul " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d6" }, "id" : 349, "cidade" : "Duque De Caxias", "name" : "Alondra Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d7" }, "id" : 350, "cidade" : "Macae", "name" : "San Francisco Park " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d8" }, "id" : 351, "cidade" : "Vassouras", "name" : "Hyde Park Lane Villas " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93d9" }, "id" : 352, "cidade" : "Jabaquara", "name" : "Plaza Azul Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93da" }, "id" : 353, "cidade" : "Ilha Grande", "name" : "Plaza Palmeras Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93db" }, "id" : 354, "cidade" : "Arraial Do Cabo", "name" : "Los Ficus Aparthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93dc" }, "id" : 355, "cidade" : "Itaborai", "name" : "Miramar Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93dd" }, "id" : 356, "cidade" : "Ilha Grande", "name" : "Guinate " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93de" }, "id" : 357, "cidade" : "Nova Friburgo", "name" : "Hipotels Natura Garden Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93df" }, "id" : 358, "cidade" : "Macae", "name" : "Molino De Guatiza " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e0" }, "id" : 359, "cidade" : "Rio De Janeiro", "name" : "Casa De Hilario " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e1" }, "id" : 360, "cidade" : "Galeao", "name" : "Sun Royal Aparthotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e2" }, "id" : 361, "cidade" : "Marica", "name" : "Parque Tropical " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e3" }, "id" : 362, "cidade" : "Angra Dos Reis", "name" : "Rosamar " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e4" }, "id" : 363, "cidade" : "Mangaratiba", "name" : "Hotel Barcelo La Galea " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e5" }, "id" : 364, "cidade" : "Rio Das Ostras", "name" : "Aloe " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e6" }, "id" : 365, "cidade" : "Barra Do Pirai", "name" : "Villas El Varadero " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e7" }, "id" : 366, "cidade" : "Arraial Do Cabo", "name" : "Corona Mar Apartamentos " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e8" }, "id" : 367, "cidade" : "Campos Dos Goytacazes", "name" : "Teneguia " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93e9" }, "id" : 368, "cidade" : "São Gonçalo", "name" : "Casas Del Sol " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ea" }, "id" : 369, "cidade" : "Itatiaia", "name" : "Clarion Inn Suites Atlantic City North " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93eb" }, "id" : 370, "cidade" : "Búzios", "name" : "Comfort Inn Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ec" }, "id" : 371, "cidade" : "Santa Teresa", "name" : "Harrahs Atlantic City " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ed" }, "id" : 372, "cidade" : "Jacarepagua", "name" : "Showboat Atlantic City " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ee" }, "id" : 373, "cidade" : "Nova Friburgo", "name" : "Ballys Park Place " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ef" }, "id" : 374, "cidade" : "Rio De Janeiro", "name" : "Best Western Envoy Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f0" }, "id" : 375, "cidade" : "Nova Iguacu", "name" : "Best Western Plus Atlantic City West Extended Stay" }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f1" }, "id" : 376, "cidade" : "Marica", "name" : "Quality Hotel Bayside Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f2" }, "id" : 377, "cidade" : "Mangaratiba", "name" : "Comfort Inn North " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f3" }, "id" : 378, "cidade" : "Petropolis", "name" : "Clarion Hotel Convention Center Atlantic City West" }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f4" }, "id" : 379, "cidade" : "Rio Das Ostras", "name" : "Akkoc Butik Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f5" }, "id" : 380, "cidade" : "São Pedro Da Serra", "name" : "Surmeli Adana Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f6" }, "id" : 381, "cidade" : "Itaipava", "name" : "Mavi Surmeli " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f7" }, "id" : 382, "cidade" : "São Gonçalo", "name" : "Riva Resatbey Boutique Busines Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f8" }, "id" : 383, "cidade" : "Macae", "name" : "Seyhan " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93f9" }, "id" : 384, "cidade" : "Itaborai", "name" : "Sahin Yuvasi " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93fa" }, "id" : 385, "cidade" : "Nova Iguacu", "name" : "Vera Santa Maria Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93fb" }, "id" : 386, "cidade" : "Ilha Grande", "name" : "Istankoy Hotel Kusadasi " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93fc" }, "id" : 387, "cidade" : "Campos Dos Goytacazes", "name" : "Olivia Family Suites " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93fd" }, "id" : 388, "cidade" : "Petropolis", "name" : "Ekin Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93fe" }, "id" : 389, "cidade" : "Jabaquara", "name" : "Akbulut Hotel Spa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb93ff" }, "id" : 390, "cidade" : "Itaguaí", "name" : "City Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9400" }, "id" : 391, "cidade" : "Duque De Caxias", "name" : "Atlantique Holiday Club " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9401" }, "id" : 392, "cidade" : "Marica", "name" : "Grand Belish " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9402" }, "id" : 393, "cidade" : "Vassouras", "name" : "Lavista Boutique Hotel Spa " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9403" }, "id" : 394, "cidade" : "Itaipava", "name" : "Altinbas Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9404" }, "id" : 395, "cidade" : "Nova Iguacu", "name" : "Hotel Ogerim " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9405" }, "id" : 396, "cidade" : "Vassouras", "name" : "Talat Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9406" }, "id" : 397, "cidade" : "Quissama", "name" : "Cidihan Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9407" }, "id" : 398, "cidade" : "Resende", "name" : "Palm Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9408" }, "id" : 399, "cidade" : "Arraial Do Cabo", "name" : "Club Prestige Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9409" }, "id" : 400, "cidade" : "Duque De Caxias", "name" : "Moya Pasha Apart " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb940a" }, "id" : 401, "cidade" : "Rio De Janeiro", "name" : "Ephesus Boutique Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb940b" }, "id" : 402, "cidade" : "Campos Dos Goytacazes", "name" : "Mor Suite Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb940c" }, "id" : 403, "cidade" : "Búzios", "name" : "Palmin Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb940d" }, "id" : 404, "cidade" : "Duque De Caxias", "name" : "Alibabam Hotel Apartment " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb940e" }, "id" : 405, "cidade" : "Itatiaia", "name" : "Cande Onura Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb940f" }, "id" : 406, "cidade" : "Penedo", "name" : "Akdas Kusadasi " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9410" }, "id" : 407, "cidade" : "Quissama", "name" : "Pine Bay Holiday Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9411" }, "id" : 408, "cidade" : "Campos", "name" : "Coastlight Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9412" }, "id" : 409, "cidade" : "Vassouras", "name" : "Adakule " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9413" }, "id" : 410, "cidade" : "Nova Iguacu", "name" : "Richmond Ephesus Resort Half Board " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9414" }, "id" : 411, "cidade" : "Miguel Pereira", "name" : "Imbat Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9415" }, "id" : 412, "cidade" : "São Gonçalo", "name" : "Club Mersin Beach Promo " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9416" }, "id" : 413, "cidade" : "Campos Dos Goytacazes", "name" : "Ephesia Holiday Beach Club " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9417" }, "id" : 414, "cidade" : "Campos Dos Goytacazes", "name" : "Atli Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9418" }, "id" : 415, "cidade" : "Rio Claro", "name" : "Efe Boutique Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9419" }, "id" : 416, "cidade" : "Itaipava", "name" : "Cande Festival Hotel Kullaniilmiyor " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb941a" }, "id" : 417, "cidade" : "Itaperuna", "name" : "Grand Blue Sky International " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb941b" }, "id" : 418, "cidade" : "Penedo", "name" : "Grand Kurdoglu Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb941c" }, "id" : 419, "cidade" : "Galeao", "name" : "Rosy Pension " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb941d" }, "id" : 420, "cidade" : "Itaipava", "name" : "Golden Gate " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb941e" }, "id" : 421, "cidade" : "Teresopolis", "name" : "Happy Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb941f" }, "id" : 422, "cidade" : "Barra Do Pirai", "name" : "Tuntas Apartments Kusadasi " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9420" }, "id" : 423, "cidade" : "Itaborai", "name" : "Club Hotel Ephesus Princess " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9421" }, "id" : 424, "cidade" : "Itaborai", "name" : "Alp Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9422" }, "id" : 425, "cidade" : "Trindade", "name" : "Asena " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9423" }, "id" : 426, "cidade" : "Itaperuna", "name" : "Hotel Derici " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9424" }, "id" : 427, "cidade" : "Cabo Frio", "name" : "Ida Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9425" }, "id" : 428, "cidade" : "Sao Pedro Da Aldeia", "name" : "Akdeniz " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9426" }, "id" : 429, "cidade" : "Búzios", "name" : "Seaview Suit " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9427" }, "id" : 430, "cidade" : "Vassouras", "name" : "Atinc Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9428" }, "id" : 431, "cidade" : "Volta Redonda", "name" : "Kayhanbey Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9429" }, "id" : 432, "cidade" : "Paraty", "name" : "Tatlises Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb942a" }, "id" : 433, "cidade" : "Itaperuna", "name" : "Surtel Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb942b" }, "id" : 434, "cidade" : "Rio Claro", "name" : "Charisma Deluxe " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb942c" }, "id" : 435, "cidade" : "Araruama", "name" : "Sealight Resort Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb942d" }, "id" : 436, "cidade" : "Nilopolis", "name" : "Minay " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb942e" }, "id" : 437, "cidade" : "Angra Dos Reis", "name" : "Korumar Hotel Deluxe " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb942f" }, "id" : 438, "cidade" : "Itaborai", "name" : "Omer Holiday Resort " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9430" }, "id" : 439, "cidade" : "Cabo Frio", "name" : "Yonca Hotel Apart " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9431" }, "id" : 440, "cidade" : "Macae", "name" : "Saturn Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9432" }, "id" : 441, "cidade" : "Teresopolis", "name" : "Hotel Altinsaray " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9433" }, "id" : 442, "cidade" : "Barra Do Pirai", "name" : "Comfort Inn Anzac Highway " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9434" }, "id" : 443, "cidade" : "Vassouras", "name" : "Quality Old Adelaide " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9435" }, "id" : 444, "cidade" : "Belford Roxo", "name" : "Fire Station Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9436" }, "id" : 445, "cidade" : "Rio Das Ostras", "name" : "Buxton Manor " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9437" }, "id" : 446, "cidade" : "Itaguaí", "name" : "Majestic Minima Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9438" }, "id" : 447, "cidade" : "Itaborai", "name" : "Mclaren Vale Studio Apartments " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9439" }, "id" : 448, "cidade" : "Teresopolis", "name" : "Best Western Ensenada Motor Inn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb943a" }, "id" : 449, "cidade" : "Campos Dos Goytacazes", "name" : "Stamford Grand Adelaide " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb943b" }, "id" : 450, "cidade" : "Ilha Grande", "name" : "Oaks Liberty Towers2 Bedroom " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb943c" }, "id" : 451, "cidade" : "Macae", "name" : "Kleopatra Bebek Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb943d" }, "id" : 452, "cidade" : "Nova Friburgo", "name" : "Azalea Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb943e" }, "id" : 453, "cidade" : "Jabaquara", "name" : "Seda Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb943f" }, "id" : 454, "cidade" : "Jacarepagua", "name" : "Mc Mahberi Beach Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9440" }, "id" : 455, "cidade" : "Mangaratiba", "name" : "Mirage Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9441" }, "id" : 456, "cidade" : "Itaborai", "name" : "Kleopatra Celine " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9442" }, "id" : 457, "cidade" : "Nova Iguacu", "name" : "Drita " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9443" }, "id" : 458, "cidade" : "Itaborai", "name" : "Moonlight Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9444" }, "id" : 459, "cidade" : "Angra Dos Reis", "name" : "Kleopatra Royal Palm Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9445" }, "id" : 460, "cidade" : "Macae", "name" : "Riviera Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9446" }, "id" : 461, "cidade" : "São Pedro Da Serra", "name" : "Selvi " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9447" }, "id" : 462, "cidade" : "Niteroi", "name" : "Residence Anfora " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9448" }, "id" : 463, "cidade" : "Rio De Janeiro", "name" : "Orient Suite Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9449" }, "id" : 464, "cidade" : "Penedo", "name" : "Maritim Hotel Club Alantur " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb944a" }, "id" : 465, "cidade" : "Rio Claro", "name" : "Cleopatra Sud Princess Apart " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb944b" }, "id" : 466, "cidade" : "Itaborai", "name" : "Mirabell Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb944c" }, "id" : 467, "cidade" : "Quissama", "name" : "My Home Resort Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb944d" }, "id" : 468, "cidade" : "Angra Dos Reis", "name" : "Club Aqua Plaza " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb944e" }, "id" : 469, "cidade" : "Miguel Pereira", "name" : "Kleopatra Ada Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb944f" }, "id" : 470, "cidade" : "Arraial Do Cabo", "name" : "Hotel Antik " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9450" }, "id" : 471, "cidade" : "São Pedro Da Serra", "name" : "Hotel Club Kastalia " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9451" }, "id" : 472, "cidade" : "Ilha Grande", "name" : "Seaport Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9452" }, "id" : 473, "cidade" : "São Gonçalo", "name" : "Volkan Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9453" }, "id" : 474, "cidade" : "Arraial Do Cabo", "name" : "Palmera Kleopatra Beach Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9454" }, "id" : 475, "cidade" : "Nova Iguacu", "name" : "Oba Star Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9455" }, "id" : 476, "cidade" : "Sao Pedro Da Aldeia", "name" : "Yalihan Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9456" }, "id" : 477, "cidade" : "Penedo", "name" : "Titan Select Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9457" }, "id" : 478, "cidade" : "Paraty", "name" : "Savk Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9458" }, "id" : 479, "cidade" : "Quissama", "name" : "Okan Tower Apart Otel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9459" }, "id" : 480, "cidade" : "Teresopolis", "name" : "Almera " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb945a" }, "id" : 481, "cidade" : "Búzios", "name" : "Gold Anez " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb945b" }, "id" : 482, "cidade" : "Barra Do Pirai", "name" : "Telatiye Resort Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb945c" }, "id" : 483, "cidade" : "Barra Mansa", "name" : "Aska Just In Beach " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb945d" }, "id" : 484, "cidade" : "Nilopolis", "name" : "Sunmaritim Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb945e" }, "id" : 485, "cidade" : "Barra Do Pirai", "name" : "Sailor Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb945f" }, "id" : 486, "cidade" : "Trindade", "name" : "Kleopatra South Star " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9460" }, "id" : 487, "cidade" : "Macae", "name" : "Primera Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9461" }, "id" : 488, "cidade" : "Niteroi", "name" : "Ozkaymak Alaaddinn " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9462" }, "id" : 489, "cidade" : "Miguel Pereira", "name" : "Sentido Gold Island " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9463" }, "id" : 490, "cidade" : "Itaipava", "name" : "Gorgulu Kleopatra Beach " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9464" }, "id" : 491, "cidade" : "Itatiaia", "name" : "Sentido Golden Bayex Hotel G " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9465" }, "id" : 492, "cidade" : "Jacarepagua", "name" : "Sailorson Apart Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9466" }, "id" : 493, "cidade" : "Ilha Grande", "name" : "Hotel Panorama " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9467" }, "id" : 494, "cidade" : "Nilopolis", "name" : "Caprice Apart " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9468" }, "id" : 495, "cidade" : "Jacarepagua", "name" : "Aramis Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb9469" }, "id" : 496, "cidade" : "Mangaratiba", "name" : "Club Konakli Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb946a" }, "id" : 497, "cidade" : "Nova Iguacu", "name" : "Club Paradiso Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb946b" }, "id" : 498, "cidade" : "Itaipava", "name" : "Grand Okan Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb946c" }, "id" : 499, "cidade" : "Quissama", "name" : "Grand Zaman Beach Hotel " }
-{ "_id" : { "$oid" : "553d881248ddbeba1bfb946d" }, "id" : 500, "cidade" : "Nova Friburgo", "name" : "Grand Uysal" }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000001" }, "city" : "Araruama", "hotel" : "Mercatto Casa Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000002" }, "city" : "Macae", "hotel" : "Boulevard Higienopolis Residence Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000003" }, "city" : "Campos", "hotel" : "Lucca Hotel Pousada " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000004" }, "city" : "Resende", "hotel" : "Kananxue Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000005" }, "city" : "Araruama", "hotel" : "Villa Verde Pousada " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000006" }, "city" : "Marica", "hotel" : "Pousada Sao Silmares " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000007" }, "city" : "Saquarema", "hotel" : "Hotel George Sand " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000008" }, "city" : "Campos", "hotel" : "Pousada Vesuvio " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000009" }, "city" : "Duque De Caxias", "hotel" : "Aragipe Praia Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400000a" }, "city" : "Penedo", "hotel" : "Capitao Nareia Pousada " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400000b" }, "city" : "Penedo", "hotel" : "Hotel Bellevue " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400000c" }, "city" : "Itatiaia", "hotel" : "155 Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400000d" }, "city" : "Angra Dos Reis", "hotel" : "Rosenparklaurensberg " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400000e" }, "city" : "Itaguaí", "hotel" : "All Seasons Aachen City " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400000f" }, "city" : "Itaipava", "hotel" : "Best Western Residenz Harzhohe " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000010" }, "city" : "Resende", "hotel" : "Harzer Land Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000011" }, "city" : "Niteroi", "hotel" : "Aquis Grana Cityhotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000012" }, "city" : "Itatiaia", "hotel" : "Mercure Hotel Aachen Europaplatz " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000013" }, "city" : "Araruama", "hotel" : "Pullman Aachen Quellenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000014" }, "city" : "Niteroi", "hotel" : "Mimosa Palace " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000015" }, "city" : "Nova Iguacu", "hotel" : "Majestic " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000016" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Seybouse " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000017" }, "city" : "Quissama", "hotel" : "First Hotel Europa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000018" }, "city" : "Nova Iguacu", "hotel" : "Hilton Al Ain Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000019" }, "city" : "Penedo", "hotel" : "City Seasons Al Ain " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400001a" }, "city" : "Ilha Grande", "hotel" : "Danat Al Ain Resort Exintercon " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400001b" }, "city" : "Rio De Janeiro", "hotel" : "Mercure Grand Jebel Hafeet " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400001c" }, "city" : "Volta Redonda", "hotel" : "Al Ain Rotana Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400001d" }, "city" : "Arraial Do Cabo", "hotel" : "Scandic Aarhus Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400001e" }, "city" : "Rio Das Ostras", "hotel" : "Radisson Blu Scandinavia Hotel Aarhus " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400001f" }, "city" : "Quissama", "hotel" : "Plaza Inn Flat Araxa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000020" }, "city" : "Itatiaia", "hotel" : "Hotel Banyan " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000021" }, "city" : "Miguel Pereira", "hotel" : "Sport Vital Central Swiss Quality Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000022" }, "city" : "Itatiaia", "hotel" : "Hotel Elisabethpark " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000023" }, "city" : "Saquarema", "hotel" : "Weismayr " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000024" }, "city" : "Niteroi", "hotel" : "Impuls Tirol Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000025" }, "city" : "Nova Friburgo", "hotel" : "Latini Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000026" }, "city" : "Ilha Grande", "hotel" : "Karwendelhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000027" }, "city" : "Itaperuna", "hotel" : "Kertess " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000028" }, "city" : "Saquarema", "hotel" : "Schlosshotel Rosenegg " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000029" }, "city" : "Itaipava", "hotel" : "Grand Hotel Zell Am See Wellness Deluxe Half Board" }
+{ "_id" : { "$oid" : "5545a50402f4d965b400002a" }, "city" : "Marica", "hotel" : "Alpenhotel Kindl " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400002b" }, "city" : "Jabaquara", "hotel" : "Boutique Hotel Steinerwirt 1493 " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400002c" }, "city" : "Itatiaia", "hotel" : "Hotel Austria Bellevue " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400002d" }, "city" : "Rio De Janeiro", "hotel" : "Hotel Goldener Greif " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400002e" }, "city" : "Barra Mansa", "hotel" : "Austria Trend Alpine Resort Fieberbrunn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400002f" }, "city" : "Macae", "hotel" : "Hotel Schloss Lebenberg " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000030" }, "city" : "Itaperuna", "hotel" : "Antonius " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000031" }, "city" : "Petropolis", "hotel" : "Toni " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000032" }, "city" : "Ilha Grande", "hotel" : "Hotel Eva Village " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000033" }, "city" : "Paraty", "hotel" : "Panther Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000034" }, "city" : "Marica", "hotel" : "Hotel Alpenbad Hohenhaus " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000035" }, "city" : "Nilopolis", "hotel" : "Interalpenhotel Tyrol " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000036" }, "city" : "Nilopolis", "hotel" : "Hotel Fliana " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000037" }, "city" : "Paraty", "hotel" : "Kempinski Hotel Das Tirol " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000038" }, "city" : "Angra Dos Reis", "hotel" : "Hotel Badhaus " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000039" }, "city" : "Ilha Grande", "hotel" : "Lebzelter " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400003a" }, "city" : "Nova Iguacu", "hotel" : "Pension Hochwimmer " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400003b" }, "city" : "Vassouras", "hotel" : "Schonblick " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400003c" }, "city" : "Barra Do Pirai", "hotel" : "Solstein " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400003d" }, "city" : "Paraty", "hotel" : "Ferienhotel Kaltschmid " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400003e" }, "city" : "Araruama", "hotel" : "Am Romerweg " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400003f" }, "city" : "Búzios", "hotel" : "Hotel Aktiv Sparesort Alpenpark " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000040" }, "city" : "Barra Mansa", "hotel" : "Mavida " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000041" }, "city" : "Teresopolis", "hotel" : "Schloss Pichlarn Spa Golf Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000042" }, "city" : "Duque De Caxias", "hotel" : "Eckartauerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000043" }, "city" : "Itaperuna", "hotel" : "Hotel Elisabeth " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000044" }, "city" : "Macae", "hotel" : "Rainhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000045" }, "city" : "Campos Dos Goytacazes", "hotel" : "Tiefenbrunner Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000046" }, "city" : "Cabo Frio", "hotel" : "Alpenhotel Oetz " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000047" }, "city" : "Nilopolis", "hotel" : "Kirchberger Hof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000048" }, "city" : "Jacarepagua", "hotel" : "Cmb " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000049" }, "city" : "Trindade", "hotel" : "Hotel Habicher Hof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400004a" }, "city" : "Rio Claro", "hotel" : "Hotel Gasthof Mauth Tui " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400004b" }, "city" : "Galeao", "hotel" : "Park " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400004c" }, "city" : "Miguel Pereira", "hotel" : "Pension Schonblick " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400004d" }, "city" : "Campos", "hotel" : "Sonne " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400004e" }, "city" : "Itaborai", "hotel" : "Tauernhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400004f" }, "city" : "Belford Roxo", "hotel" : "Gasteheim Prantl " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000050" }, "city" : "Nova Friburgo", "hotel" : "Hotel Erhart " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000051" }, "city" : "Ilha Grande", "hotel" : "Wellnesshotel Schonruh " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000052" }, "city" : "Nova Iguacu", "hotel" : "Alpenhof Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000053" }, "city" : "Itaborai", "hotel" : "Hotel Arlberg " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000054" }, "city" : "Quissama", "hotel" : "Hotel Felsenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000055" }, "city" : "Itaguaí", "hotel" : "Tannbergerhof Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000056" }, "city" : "Jabaquara", "hotel" : "Lech Chesa Rosa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000057" }, "city" : "Angra Dos Reis", "hotel" : "Menthof Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000058" }, "city" : "Mangaratiba", "hotel" : "Sonnenhotel Sturbanerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000059" }, "city" : "Rio Claro", "hotel" : "Tirolerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400005a" }, "city" : "Quissama", "hotel" : "Mittagskogel Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400005b" }, "city" : "Belford Roxo", "hotel" : "Hotel Gisela " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400005c" }, "city" : "Nova Friburgo", "hotel" : "Strandhotel Entner " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400005d" }, "city" : "Itatiaia", "hotel" : "Kleon Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400005e" }, "city" : "Rio Das Ostras", "hotel" : "Hotel Hindenburg " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400005f" }, "city" : "Nova Friburgo", "hotel" : "Alpenhotel Saalbach Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000060" }, "city" : "Volta Redonda", "hotel" : "Gasthof Pension Bergheimat " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000061" }, "city" : "Nilopolis", "hotel" : "Familienhotel Vent " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000062" }, "city" : "Itaguaí", "hotel" : "Aqi Hotel Schladming " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000063" }, "city" : "Angra Dos Reis", "hotel" : "Post " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000064" }, "city" : "Paraty", "hotel" : "Hotel Austria " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000065" }, "city" : "Angra Dos Reis", "hotel" : "Bergers Sporthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000066" }, "city" : "Campos", "hotel" : "Sonngastein " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000067" }, "city" : "Barra Do Pirai", "hotel" : "Kur Sporthotel Palace " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000068" }, "city" : "Barra Do Pirai", "hotel" : "Sunny " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000069" }, "city" : "Jacarepagua", "hotel" : "Oberforsthof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400006a" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Alpinasolden " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400006b" }, "city" : "Macae", "hotel" : "Sonnenresort Ossiacher See " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400006c" }, "city" : "Petropolis", "hotel" : "Hotel Alpenkrone " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400006d" }, "city" : "Santa Teresa", "hotel" : "Hotel Dunza " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400006e" }, "city" : "Nova Iguacu", "hotel" : "Almferienclub Silbertal " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400006f" }, "city" : "São Gonçalo", "hotel" : "Gasthof Weisskugel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000070" }, "city" : "Araruama", "hotel" : "Hotel Bruggerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000071" }, "city" : "Itaborai", "hotel" : "Harmonyhotel Harfenwirt " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000072" }, "city" : "Itatiaia", "hotel" : "Kurund Sporthotel Alpenblick " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000073" }, "city" : "Duque De Caxias", "hotel" : "Gartenhotel Daxer " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000074" }, "city" : "Belford Roxo", "hotel" : "Lifthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000075" }, "city" : "Nilopolis", "hotel" : "Kristall " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000076" }, "city" : "Saquarema", "hotel" : "Hotel Gasthof Zur Muhle " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000077" }, "city" : "Macae", "hotel" : "Landhotel Vordergrub " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000078" }, "city" : "Vassouras", "hotel" : "Sportpension Trauner " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000079" }, "city" : "Niteroi", "hotel" : "Hotel Simmerlwirt " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400007a" }, "city" : "Campos", "hotel" : "Nationalparkhotel Klockerhaus " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400007b" }, "city" : "Miguel Pereira", "hotel" : "Wiesenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400007c" }, "city" : "Arraial Do Cabo", "hotel" : "Liebe Sonne " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400007d" }, "city" : "Rio De Janeiro", "hotel" : "Astrid " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400007e" }, "city" : "Volta Redonda", "hotel" : "Alpenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400007f" }, "city" : "Paraty", "hotel" : "Katschberghof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000080" }, "city" : "Nilopolis", "hotel" : "Romerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000081" }, "city" : "Vassouras", "hotel" : "Larchenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000082" }, "city" : "Quissama", "hotel" : "Sporthotel Molltal " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000083" }, "city" : "Paraty", "hotel" : "Garni Oblasser " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000084" }, "city" : "Galeao", "hotel" : "Hagleitner Family Balance Hotel Spa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000085" }, "city" : "Itatiaia", "hotel" : "Kirchenwirt " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000086" }, "city" : "Cabo Frio", "hotel" : "Hotel Gasthof Post " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000087" }, "city" : "Macae", "hotel" : "Tophotel Mein Almhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000088" }, "city" : "Nilopolis", "hotel" : "Hotel Stefanihof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000089" }, "city" : "Itaperuna", "hotel" : "Schwarzer Adler Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400008a" }, "city" : "Resende", "hotel" : "Landgut Zapfenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400008b" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Krimmlerfalle Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400008c" }, "city" : "Cabo Frio", "hotel" : "Norica Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400008d" }, "city" : "Rio De Janeiro", "hotel" : "Hotel Fluchthorn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400008e" }, "city" : "Resende", "hotel" : "Stpeter De Luxe " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400008f" }, "city" : "Miguel Pereira", "hotel" : "Piz Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000090" }, "city" : "Niteroi", "hotel" : "Klosterbraeu " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000091" }, "city" : "Duque De Caxias", "hotel" : "Vital Landhotel Schermer " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000092" }, "city" : "Itaperuna", "hotel" : "Harisch Weisses Rossl " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000093" }, "city" : "Nilopolis", "hotel" : "Kirchplatz " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000094" }, "city" : "Cabo Frio", "hotel" : "Karl Schranz " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000095" }, "city" : "Teresopolis", "hotel" : "Tyrol " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000096" }, "city" : "Niteroi", "hotel" : "Hotel Fahrner " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000097" }, "city" : "Miguel Pereira", "hotel" : "Hotel Florl " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000098" }, "city" : "Duque De Caxias", "hotel" : "Hotel Bergheim " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000099" }, "city" : "Angra Dos Reis", "hotel" : "Hotel Barenhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400009a" }, "city" : "São Gonçalo", "hotel" : "Der Waldhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400009b" }, "city" : "Volta Redonda", "hotel" : "Hotel Astoria " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400009c" }, "city" : "Niteroi", "hotel" : "Jaegerwirt " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400009d" }, "city" : "Itatiaia", "hotel" : "Maria Theresia " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400009e" }, "city" : "Volta Redonda", "hotel" : "Tirolerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400009f" }, "city" : "Angra Dos Reis", "hotel" : "Strasshofer " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a0" }, "city" : "Itaipava", "hotel" : "Zillertalerhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a1" }, "city" : "Volta Redonda", "hotel" : "Hotel Alpendomizil Neuhaus " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a2" }, "city" : "Itaguaí", "hotel" : "Rauchenwalderhof " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a3" }, "city" : "Jabaquara", "hotel" : "Hotel Alpina " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a4" }, "city" : "Santa Teresa", "hotel" : "Hotel Cristallago " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a5" }, "city" : "Teresopolis", "hotel" : "Stefanie Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a6" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Hampton Inn Suites Edmontonwest " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a7" }, "city" : "Trindade", "hotel" : "Best Western Plus Westwood Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a8" }, "city" : "Niteroi", "hotel" : "Best Western Plus Denham Inn Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000a9" }, "city" : "Galeao", "hotel" : "Travelodge Edmonton West Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000aa" }, "city" : "Nova Friburgo", "hotel" : "Best Western Plus South Edmonton Inn Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ab" }, "city" : "Itaborai", "hotel" : "Travelodge Edmonton South " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ac" }, "city" : "São Gonçalo", "hotel" : "Delta Edmonton South " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ad" }, "city" : "Miguel Pereira", "hotel" : "Quality Inn Edmonton Intl Airport " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ae" }, "city" : "Nova Iguacu", "hotel" : "Courtyard By Marriott Edmonton " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000af" }, "city" : "Miguel Pereira", "hotel" : "Comfort Inn Absecon " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b0" }, "city" : "Campos", "hotel" : "Best Western Garden State Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b1" }, "city" : "Búzios", "hotel" : "Hotel Cavaliere " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b2" }, "city" : "Rio Das Ostras", "hotel" : "Ramapendula Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b3" }, "city" : "Araruama", "hotel" : "Hotel Astoria " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b4" }, "city" : "Marica", "hotel" : "Gran Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b5" }, "city" : "Arraial Do Cabo", "hotel" : "Hotel Casa Lorenzo " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b6" }, "city" : "São Gonçalo", "hotel" : "Sidorme Albacete " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b7" }, "city" : "Belford Roxo", "hotel" : "Hotel Castilla " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b8" }, "city" : "Miguel Pereira", "hotel" : "Hotel Altozano " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000b9" }, "city" : "Nova Friburgo", "hotel" : "Nh Albar " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ba" }, "city" : "Vassouras", "hotel" : "Parador De Albacete " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000bb" }, "city" : "Penedo", "hotel" : "Marquesado De Almansa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000bc" }, "city" : "Campos", "hotel" : "Hampton Inn Abilene " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000bd" }, "city" : "Angra Dos Reis", "hotel" : "Sleep Inn Suites Abilene " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000be" }, "city" : "Jacarepagua", "hotel" : "Hampton Inn Sweetwater Tx " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000bf" }, "city" : "Itaperuna", "hotel" : "Hampton Inn Brownwood " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c0" }, "city" : "São Gonçalo", "hotel" : "Best Western Abilene Inn Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c1" }, "city" : "São Pedro Da Serra", "hotel" : "Ibis Marcory " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c2" }, "city" : "Itaguaí", "hotel" : "Pullman Abidjan " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c3" }, "city" : "Itaguaí", "hotel" : "Albuquerquedays Inn West " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c4" }, "city" : "Itaperuna", "hotel" : "Econo Lodge " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c5" }, "city" : "Vassouras", "hotel" : "Comfort Inn Suites North " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c6" }, "city" : "Macae", "hotel" : "Motel 6 Albuquerque South Airport " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c7" }, "city" : "Galeao", "hotel" : "La Quinta Inn Albuquerque Airport " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c8" }, "city" : "Duque De Caxias", "hotel" : "Comfort Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000c9" }, "city" : "Araruama", "hotel" : "Hilton Garden Inn Albuq Nrio Rancho " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ca" }, "city" : "Volta Redonda", "hotel" : "Hampton Inn Albuquerqueairport " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000cb" }, "city" : "Paraty", "hotel" : "Homewood Suites By Hilton Albuquerque Uptown " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000cc" }, "city" : "Quissama", "hotel" : "Hampton Inn Suites Albuquerquecoors Road " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000cd" }, "city" : "Jabaquara", "hotel" : "Embassy Suites Albuquerque Hot " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ce" }, "city" : "Volta Redonda", "hotel" : "Best Western Plus Rio Grande Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000cf" }, "city" : "Paraty", "hotel" : "Rodeway Inn Midtown " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d0" }, "city" : "Paraty", "hotel" : "Ramada Albuquerque Airport " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d1" }, "city" : "Itaguaí", "hotel" : "Comfort Inn West " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d2" }, "city" : "Nova Friburgo", "hotel" : "Sleep Inn Airport " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d3" }, "city" : "Itaperuna", "hotel" : "Red Roof Inn Suites Albuquerque " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d4" }, "city" : "São Gonçalo", "hotel" : "Hotel Duca Degli Abruzzi " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d5" }, "city" : "São Pedro Da Serra", "hotel" : "Breaking Business Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d6" }, "city" : "Barra Mansa", "hotel" : "Best Western Parco Paglia Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d7" }, "city" : "Macae", "hotel" : "Dinas Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d8" }, "city" : "Mangaratiba", "hotel" : "Protea Hotel Asokoro " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000d9" }, "city" : "Parati", "hotel" : "Hilton Garden Inn Albany Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000da" }, "city" : "Duque De Caxias", "hotel" : "Hampton Inn Albany At Albany Mall " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000db" }, "city" : "Itatiaia", "hotel" : "Best Western Albany Mall Inn Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000dc" }, "city" : "Ilha Grande", "hotel" : "Quality Inn Merry Acres " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000dd" }, "city" : "Resende", "hotel" : "Sleep Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000de" }, "city" : "Búzios", "hotel" : "Meldrum House Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000df" }, "city" : "Campos", "hotel" : "Aberdeen Youth " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e0" }, "city" : "Arraial Do Cabo", "hotel" : "Mercure Ardoe House Hotel Spa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e1" }, "city" : "Santa Teresa", "hotel" : "Loch Kinord Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e2" }, "city" : "Ilha Grande", "hotel" : "Norwood Hall Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e3" }, "city" : "Resende", "hotel" : "Swallow Thainstone House Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e4" }, "city" : "Arraial Do Cabo", "hotel" : "Thistle Aberdeen Airport Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e5" }, "city" : "São Gonçalo", "hotel" : "Holiday Inn Express Aberdeen City Centre " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e6" }, "city" : "Saquarema", "hotel" : "Doubletree By Hilton Aberdeen City Centre " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e7" }, "city" : "Nova Iguacu", "hotel" : "Kilmarnock Arms Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e8" }, "city" : "Cabo Frio", "hotel" : "Hotel Aberdeen Douglas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000e9" }, "city" : "Saquarema", "hotel" : "Hilton Aberdeen Treetops Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ea" }, "city" : "Nova Friburgo", "hotel" : "Banff Springs Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000eb" }, "city" : "Araruama", "hotel" : "Huntly Arms Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ec" }, "city" : "Santa Teresa", "hotel" : "Station Hotel Aberdeen " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ed" }, "city" : "Paraty", "hotel" : "Holiday Inn Aberdeenwest " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ee" }, "city" : "Itaperuna", "hotel" : "Thistle Aberdeen Altens Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ef" }, "city" : "Petropolis", "hotel" : "Hotel Aberdeen Marriott " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f0" }, "city" : "Teresopolis", "hotel" : "Carmelite Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f1" }, "city" : "Itaborai", "hotel" : "Quality Suites Spa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f2" }, "city" : "São Pedro Da Serra", "hotel" : "Residhome Arcachon Plazza " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f3" }, "city" : "São Pedro Da Serra", "hotel" : "Maeva Le Trianon " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f4" }, "city" : "Itaipava", "hotel" : "Maeva La Jetee Des Marins " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f5" }, "city" : "Nova Iguacu", "hotel" : "Novotel Arcachon " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f6" }, "city" : "Itatiaia", "hotel" : "Ocean Breeze Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f7" }, "city" : "Rio Das Ostras", "hotel" : "Hotel Encanto " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f8" }, "city" : "Vassouras", "hotel" : "One Acapulco Costera " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000f9" }, "city" : "São Gonçalo", "hotel" : "Hotel Boutique Casa Yalma Kaan " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000fa" }, "city" : "Petropolis", "hotel" : "Holiday Inn Resort Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000fb" }, "city" : "Búzios", "hotel" : "Hotel Baxar " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000fc" }, "city" : "Santa Teresa", "hotel" : "Crowne Plaza Hotel Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000fd" }, "city" : "Santa Teresa", "hotel" : "Park Royal Acapulco All Inclusive " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000fe" }, "city" : "Itaipava", "hotel" : "Alba Suites Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40000ff" }, "city" : "Jabaquara", "hotel" : "Auto Hotel Ritz " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000100" }, "city" : "Resende", "hotel" : "Romano Palace Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000101" }, "city" : "Itaperuna", "hotel" : "Tortuga Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000102" }, "city" : "Barra Do Pirai", "hotel" : "Playa Suites Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000103" }, "city" : "Barra Do Pirai", "hotel" : "El Hotelito " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000104" }, "city" : "Duque De Caxias", "hotel" : "Acapulco Malibu Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000105" }, "city" : "Belford Roxo", "hotel" : "Hotel Calinda Beach Acapulco " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000106" }, "city" : "Parati", "hotel" : "The Fairmont Pierre Marques " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000107" }, "city" : "Parati", "hotel" : "Acasol Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000108" }, "city" : "Campos Dos Goytacazes", "hotel" : "Las Torres Gemelas Private Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000109" }, "city" : "Rio Claro", "hotel" : "Riviera Park " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400010a" }, "city" : "Arraial Do Cabo", "hotel" : "Agua Marina " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400010b" }, "city" : "Marica", "hotel" : "Cay Beach Papagayo " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400010c" }, "city" : "Quissama", "hotel" : "Villas Mammamia " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400010d" }, "city" : "Marica", "hotel" : "Isabel Apartamentos Incl Rent A Car " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400010e" }, "city" : "Rio Das Ostras", "hotel" : "Finca La Crucita Incl Rent A Car " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400010f" }, "city" : "Macae", "hotel" : "Fayna " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000110" }, "city" : "Itaipava", "hotel" : "Tabaiba Center Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000111" }, "city" : "Cabo Frio", "hotel" : "Sol Lanzarote Residente Canario " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000112" }, "city" : "Santa Teresa", "hotel" : "Los Tulipanes Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000113" }, "city" : "Santa Teresa", "hotel" : "Paradise Island " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000114" }, "city" : "Itatiaia", "hotel" : "San Marcial Apartamentos Incl Rent A Car " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000115" }, "city" : "Petropolis", "hotel" : "H10 Bahia Blanca Rock " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000116" }, "city" : "Itaborai", "hotel" : "Hotel Blue Sea Corbeta " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000117" }, "city" : "Búzios", "hotel" : "Las Cascadas Apartments " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000118" }, "city" : "Belford Roxo", "hotel" : "Hotel Riu Olivina Resort All Inclusive " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000119" }, "city" : "Campos", "hotel" : "Sun Park Aparthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400011a" }, "city" : "Rio Das Ostras", "hotel" : "H10 Lanzarote Princess Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400011b" }, "city" : "Nova Friburgo", "hotel" : "Playa Pocillos Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400011c" }, "city" : "Nova Friburgo", "hotel" : "El Guarapo Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400011d" }, "city" : "Barra Mansa", "hotel" : "Villas La Bocaina " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400011e" }, "city" : "Volta Redonda", "hotel" : "Vik Club Coral Beach Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400011f" }, "city" : "Itatiaia", "hotel" : "Villas Brisa Marina " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000120" }, "city" : "Quissama", "hotel" : "Hotel Costa Calero " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000121" }, "city" : "Saquarema", "hotel" : "Villa Mango " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000122" }, "city" : "São Gonçalo", "hotel" : "Villa Christina " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000123" }, "city" : "São Gonçalo", "hotel" : "Casitas Alondra " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000124" }, "city" : "Niteroi", "hotel" : "Atlantis Las Lomas Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000125" }, "city" : "Barra Do Pirai", "hotel" : "Finca La Florida " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000126" }, "city" : "Rio Das Ostras", "hotel" : "Luabay Lanzarote Beach Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000127" }, "city" : "São Gonçalo", "hotel" : "Los Hibiscos Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000128" }, "city" : "Mangaratiba", "hotel" : "Guacimeta Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000129" }, "city" : "Galeao", "hotel" : "Los Zocos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400012a" }, "city" : "Nilopolis", "hotel" : "Santa Rosa Aparthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400012b" }, "city" : "Barra Mansa", "hotel" : "Villas Salinas Matagorda " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400012c" }, "city" : "Angra Dos Reis", "hotel" : "Las Colinas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400012d" }, "city" : "Campos Dos Goytacazes", "hotel" : "Oceano Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400012e" }, "city" : "Jabaquara", "hotel" : "Finca La Calerita " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400012f" }, "city" : "Santa Teresa", "hotel" : "Hd Beach Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000130" }, "city" : "Volta Redonda", "hotel" : "Be Live Grand Teguise Playa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000131" }, "city" : "Itaguaí", "hotel" : "Be Live Lanzarote Resort Ex Oasis Lanzarote " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000132" }, "city" : "Nova Iguacu", "hotel" : "Las Caletas Village " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000133" }, "city" : "Cabo Frio", "hotel" : "Villas Janubio " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000134" }, "city" : "Niteroi", "hotel" : "Playa Club " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000135" }, "city" : "Rio De Janeiro", "hotel" : "El Dorado " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000136" }, "city" : "Rio De Janeiro", "hotel" : "Bungalows Coloradamar " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000137" }, "city" : "Itaguaí", "hotel" : "Los Gracioseros " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000138" }, "city" : "Itaipava", "hotel" : "Villas Los Colores " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000139" }, "city" : "Nova Friburgo", "hotel" : "H10 Rubicon Palace Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400013a" }, "city" : "Santa Teresa", "hotel" : "Hl Club Playa Blanca " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400013b" }, "city" : "Itaguaí", "hotel" : "Apartamentos Acuario Sol " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400013c" }, "city" : "Araruama", "hotel" : "Casa Del Embajador " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400013d" }, "city" : "Angra Dos Reis", "hotel" : "Panorama " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400013e" }, "city" : "Galeao", "hotel" : "Lanzarote Paradise Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400013f" }, "city" : "Itatiaia", "hotel" : "Sandos Papagayo Beach Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000140" }, "city" : "Itaguaí", "hotel" : "Hipotels Natura Palace " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000141" }, "city" : "Rio Das Ostras", "hotel" : "Lanzarote Village " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000142" }, "city" : "Macae", "hotel" : "Balcon Del Mar Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000143" }, "city" : "Quissama", "hotel" : "Iberostar Papagayo " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000144" }, "city" : "Cabo Frio", "hotel" : "Hotel Barcelo Lanzarote Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000145" }, "city" : "Araruama", "hotel" : "Hipotels La Geria " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000146" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Thb Flora Aparthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000147" }, "city" : "Araruama", "hotel" : "Costa Sal " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000148" }, "city" : "Ilha Grande", "hotel" : "Rocas Blancas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000149" }, "city" : "Jabaquara", "hotel" : "El Trebol Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400014a" }, "city" : "São Gonçalo", "hotel" : "Cinco Plazas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400014b" }, "city" : "Nova Iguacu", "hotel" : "Iberostar La Bocayna Village " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400014c" }, "city" : "Teresopolis", "hotel" : "Sands Beach Villas Resort Uk " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400014d" }, "city" : "Duque De Caxias", "hotel" : "Las Costas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400014e" }, "city" : "Nova Iguacu", "hotel" : "Los Pueblos Aptos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400014f" }, "city" : "Volta Redonda", "hotel" : "Playamar Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000150" }, "city" : "Ilha Grande", "hotel" : "Hotel Royal Monica " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000151" }, "city" : "Parati", "hotel" : "Mansion Nazaret Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000152" }, "city" : "Paraty", "hotel" : "Luz Y Mar Apartaments " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000153" }, "city" : "Parati", "hotel" : "Celeste Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000154" }, "city" : "Nilopolis", "hotel" : "Iberostar Lanzarote Park Aparthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000155" }, "city" : "Arraial Do Cabo", "hotel" : "Hotel Hesperia Lanzarote " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000156" }, "city" : "Nilopolis", "hotel" : "Sun Grove Villas Spa Incl Rent A Car " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000157" }, "city" : "Niteroi", "hotel" : "Villa Alena " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000158" }, "city" : "Santa Teresa", "hotel" : "Vistas Salinas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000159" }, "city" : "Rio Claro", "hotel" : "Velazquez " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400015a" }, "city" : "Niteroi", "hotel" : "Hotel Diamar " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400015b" }, "city" : "Itaipava", "hotel" : "Los Fariones Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400015c" }, "city" : "Penedo", "hotel" : "Apartamentos Aguazul " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400015d" }, "city" : "Duque De Caxias", "hotel" : "Alondra Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400015e" }, "city" : "Macae", "hotel" : "San Francisco Park " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400015f" }, "city" : "Vassouras", "hotel" : "Hyde Park Lane Villas " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000160" }, "city" : "Jabaquara", "hotel" : "Plaza Azul Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000161" }, "city" : "Ilha Grande", "hotel" : "Plaza Palmeras Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000162" }, "city" : "Arraial Do Cabo", "hotel" : "Los Ficus Aparthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000163" }, "city" : "Itaborai", "hotel" : "Miramar Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000164" }, "city" : "Ilha Grande", "hotel" : "Guinate " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000165" }, "city" : "Nova Friburgo", "hotel" : "Hipotels Natura Garden Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000166" }, "city" : "Macae", "hotel" : "Molino De Guatiza " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000167" }, "city" : "Rio De Janeiro", "hotel" : "Casa De Hilario " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000168" }, "city" : "Galeao", "hotel" : "Sun Royal Aparthotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000169" }, "city" : "Marica", "hotel" : "Parque Tropical " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400016a" }, "city" : "Angra Dos Reis", "hotel" : "Rosamar " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400016b" }, "city" : "Mangaratiba", "hotel" : "Hotel Barcelo La Galea " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400016c" }, "city" : "Rio Das Ostras", "hotel" : "Aloe " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400016d" }, "city" : "Barra Do Pirai", "hotel" : "Villas El Varadero " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400016e" }, "city" : "Arraial Do Cabo", "hotel" : "Corona Mar Apartamentos " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400016f" }, "city" : "Campos Dos Goytacazes", "hotel" : "Teneguia " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000170" }, "city" : "São Gonçalo", "hotel" : "Casas Del Sol " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000171" }, "city" : "Itatiaia", "hotel" : "Clarion Inn Suites Atlantic City North " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000172" }, "city" : "Búzios", "hotel" : "Comfort Inn Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000173" }, "city" : "Santa Teresa", "hotel" : "Harrahs Atlantic City " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000174" }, "city" : "Jacarepagua", "hotel" : "Showboat Atlantic City " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000175" }, "city" : "Nova Friburgo", "hotel" : "Ballys Park Place " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000176" }, "city" : "Rio De Janeiro", "hotel" : "Best Western Envoy Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000177" }, "city" : "Nova Iguacu", "hotel" : "Best Western Plus Atlantic City West Extended Stay" }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000178" }, "city" : "Marica", "hotel" : "Quality Hotel Bayside Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000179" }, "city" : "Mangaratiba", "hotel" : "Comfort Inn North " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400017a" }, "city" : "Petropolis", "hotel" : "Clarion Hotel Convention Center Atlantic City West" }
+{ "_id" : { "$oid" : "5545a50402f4d965b400017b" }, "city" : "Rio Das Ostras", "hotel" : "Akkoc Butik Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400017c" }, "city" : "São Pedro Da Serra", "hotel" : "Surmeli Adana Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400017d" }, "city" : "Itaipava", "hotel" : "Mavi Surmeli " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400017e" }, "city" : "São Gonçalo", "hotel" : "Riva Resatbey Boutique Busines Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400017f" }, "city" : "Macae", "hotel" : "Seyhan " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000180" }, "city" : "Itaborai", "hotel" : "Sahin Yuvasi " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000181" }, "city" : "Nova Iguacu", "hotel" : "Vera Santa Maria Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000182" }, "city" : "Ilha Grande", "hotel" : "Istankoy Hotel Kusadasi " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000183" }, "city" : "Campos Dos Goytacazes", "hotel" : "Olivia Family Suites " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000184" }, "city" : "Petropolis", "hotel" : "Ekin Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000185" }, "city" : "Jabaquara", "hotel" : "Akbulut Hotel Spa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000186" }, "city" : "Itaguaí", "hotel" : "City Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000187" }, "city" : "Duque De Caxias", "hotel" : "Atlantique Holiday Club " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000188" }, "city" : "Marica", "hotel" : "Grand Belish " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000189" }, "city" : "Vassouras", "hotel" : "Lavista Boutique Hotel Spa " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400018a" }, "city" : "Itaipava", "hotel" : "Altinbas Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400018b" }, "city" : "Nova Iguacu", "hotel" : "Hotel Ogerim " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400018c" }, "city" : "Vassouras", "hotel" : "Talat Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400018d" }, "city" : "Quissama", "hotel" : "Cidihan Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400018e" }, "city" : "Resende", "hotel" : "Palm Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400018f" }, "city" : "Arraial Do Cabo", "hotel" : "Club Prestige Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000190" }, "city" : "Duque De Caxias", "hotel" : "Moya Pasha Apart " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000191" }, "city" : "Rio De Janeiro", "hotel" : "Ephesus Boutique Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000192" }, "city" : "Campos Dos Goytacazes", "hotel" : "Mor Suite Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000193" }, "city" : "Búzios", "hotel" : "Palmin Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000194" }, "city" : "Duque De Caxias", "hotel" : "Alibabam Hotel Apartment " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000195" }, "city" : "Itatiaia", "hotel" : "Cande Onura Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000196" }, "city" : "Penedo", "hotel" : "Akdas Kusadasi " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000197" }, "city" : "Quissama", "hotel" : "Pine Bay Holiday Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000198" }, "city" : "Campos", "hotel" : "Coastlight Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b4000199" }, "city" : "Vassouras", "hotel" : "Adakule " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400019a" }, "city" : "Nova Iguacu", "hotel" : "Richmond Ephesus Resort Half Board " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400019b" }, "city" : "Miguel Pereira", "hotel" : "Imbat Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400019c" }, "city" : "São Gonçalo", "hotel" : "Club Mersin Beach Promo " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400019d" }, "city" : "Campos Dos Goytacazes", "hotel" : "Ephesia Holiday Beach Club " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400019e" }, "city" : "Campos Dos Goytacazes", "hotel" : "Atli Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b400019f" }, "city" : "Rio Claro", "hotel" : "Efe Boutique Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a0" }, "city" : "Itaipava", "hotel" : "Cande Festival Hotel Kullaniilmiyor " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a1" }, "city" : "Itaperuna", "hotel" : "Grand Blue Sky International " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a2" }, "city" : "Penedo", "hotel" : "Grand Kurdoglu Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a3" }, "city" : "Galeao", "hotel" : "Rosy Pension " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a4" }, "city" : "Itaipava", "hotel" : "Golden Gate " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a5" }, "city" : "Teresopolis", "hotel" : "Happy Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a6" }, "city" : "Barra Do Pirai", "hotel" : "Tuntas Apartments Kusadasi " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a7" }, "city" : "Itaborai", "hotel" : "Club Hotel Ephesus Princess " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a8" }, "city" : "Itaborai", "hotel" : "Alp Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001a9" }, "city" : "Trindade", "hotel" : "Asena " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001aa" }, "city" : "Itaperuna", "hotel" : "Hotel Derici " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ab" }, "city" : "Cabo Frio", "hotel" : "Ida Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ac" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Akdeniz " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ad" }, "city" : "Búzios", "hotel" : "Seaview Suit " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ae" }, "city" : "Vassouras", "hotel" : "Atinc Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001af" }, "city" : "Volta Redonda", "hotel" : "Kayhanbey Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b0" }, "city" : "Paraty", "hotel" : "Tatlises Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b1" }, "city" : "Itaperuna", "hotel" : "Surtel Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b2" }, "city" : "Rio Claro", "hotel" : "Charisma Deluxe " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b3" }, "city" : "Araruama", "hotel" : "Sealight Resort Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b4" }, "city" : "Nilopolis", "hotel" : "Minay " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b5" }, "city" : "Angra Dos Reis", "hotel" : "Korumar Hotel Deluxe " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b6" }, "city" : "Itaborai", "hotel" : "Omer Holiday Resort " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b7" }, "city" : "Cabo Frio", "hotel" : "Yonca Hotel Apart " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b8" }, "city" : "Macae", "hotel" : "Saturn Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001b9" }, "city" : "Teresopolis", "hotel" : "Hotel Altinsaray " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ba" }, "city" : "Barra Do Pirai", "hotel" : "Comfort Inn Anzac Highway " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001bb" }, "city" : "Vassouras", "hotel" : "Quality Old Adelaide " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001bc" }, "city" : "Belford Roxo", "hotel" : "Fire Station Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001bd" }, "city" : "Rio Das Ostras", "hotel" : "Buxton Manor " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001be" }, "city" : "Itaguaí", "hotel" : "Majestic Minima Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001bf" }, "city" : "Itaborai", "hotel" : "Mclaren Vale Studio Apartments " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c0" }, "city" : "Teresopolis", "hotel" : "Best Western Ensenada Motor Inn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c1" }, "city" : "Campos Dos Goytacazes", "hotel" : "Stamford Grand Adelaide " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c2" }, "city" : "Ilha Grande", "hotel" : "Oaks Liberty Towers2 Bedroom " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c3" }, "city" : "Macae", "hotel" : "Kleopatra Bebek Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c4" }, "city" : "Nova Friburgo", "hotel" : "Azalea Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c5" }, "city" : "Jabaquara", "hotel" : "Seda Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c6" }, "city" : "Jacarepagua", "hotel" : "Mc Mahberi Beach Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c7" }, "city" : "Mangaratiba", "hotel" : "Mirage Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c8" }, "city" : "Itaborai", "hotel" : "Kleopatra Celine " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001c9" }, "city" : "Nova Iguacu", "hotel" : "Drita " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ca" }, "city" : "Itaborai", "hotel" : "Moonlight Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001cb" }, "city" : "Angra Dos Reis", "hotel" : "Kleopatra Royal Palm Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001cc" }, "city" : "Macae", "hotel" : "Riviera Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001cd" }, "city" : "São Pedro Da Serra", "hotel" : "Selvi " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ce" }, "city" : "Niteroi", "hotel" : "Residence Anfora " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001cf" }, "city" : "Rio De Janeiro", "hotel" : "Orient Suite Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d0" }, "city" : "Penedo", "hotel" : "Maritim Hotel Club Alantur " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d1" }, "city" : "Rio Claro", "hotel" : "Cleopatra Sud Princess Apart " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d2" }, "city" : "Itaborai", "hotel" : "Mirabell Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d3" }, "city" : "Quissama", "hotel" : "My Home Resort Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d4" }, "city" : "Angra Dos Reis", "hotel" : "Club Aqua Plaza " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d5" }, "city" : "Miguel Pereira", "hotel" : "Kleopatra Ada Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d6" }, "city" : "Arraial Do Cabo", "hotel" : "Hotel Antik " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d7" }, "city" : "São Pedro Da Serra", "hotel" : "Hotel Club Kastalia " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d8" }, "city" : "Ilha Grande", "hotel" : "Seaport Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001d9" }, "city" : "São Gonçalo", "hotel" : "Volkan Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001da" }, "city" : "Arraial Do Cabo", "hotel" : "Palmera Kleopatra Beach Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001db" }, "city" : "Nova Iguacu", "hotel" : "Oba Star Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001dc" }, "city" : "Sao Pedro Da Aldeia", "hotel" : "Yalihan Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001dd" }, "city" : "Penedo", "hotel" : "Titan Select Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001de" }, "city" : "Paraty", "hotel" : "Savk Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001df" }, "city" : "Quissama", "hotel" : "Okan Tower Apart Otel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e0" }, "city" : "Teresopolis", "hotel" : "Almera " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e1" }, "city" : "Búzios", "hotel" : "Gold Anez " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e2" }, "city" : "Barra Do Pirai", "hotel" : "Telatiye Resort Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e3" }, "city" : "Barra Mansa", "hotel" : "Aska Just In Beach " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e4" }, "city" : "Nilopolis", "hotel" : "Sunmaritim Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e5" }, "city" : "Barra Do Pirai", "hotel" : "Sailor Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e6" }, "city" : "Trindade", "hotel" : "Kleopatra South Star " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e7" }, "city" : "Macae", "hotel" : "Primera Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e8" }, "city" : "Niteroi", "hotel" : "Ozkaymak Alaaddinn " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001e9" }, "city" : "Miguel Pereira", "hotel" : "Sentido Gold Island " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ea" }, "city" : "Itaipava", "hotel" : "Gorgulu Kleopatra Beach " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001eb" }, "city" : "Itatiaia", "hotel" : "Sentido Golden Bayex Hotel G " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ec" }, "city" : "Jacarepagua", "hotel" : "Sailorson Apart Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ed" }, "city" : "Ilha Grande", "hotel" : "Hotel Panorama " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ee" }, "city" : "Nilopolis", "hotel" : "Caprice Apart " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001ef" }, "city" : "Jacarepagua", "hotel" : "Aramis Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001f0" }, "city" : "Mangaratiba", "hotel" : "Club Konakli Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001f1" }, "city" : "Nova Iguacu", "hotel" : "Club Paradiso Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001f2" }, "city" : "Itaipava", "hotel" : "Grand Okan Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001f3" }, "city" : "Quissama", "hotel" : "Grand Zaman Beach Hotel " }
+{ "_id" : { "$oid" : "5545a50402f4d965b40001f4" }, "city" : "Nova Friburgo", "hotel" : "Grand Uysal" }

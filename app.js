@@ -14,7 +14,7 @@ mongoose.connect('mongodb://localhost/desafiohu', function(error){
   }
 });
 
-app.set('views', path.join(__dirname, 'app/views'));
+app.set('views', path.join(__dirname, 'app/views/pages'));
 app.engine('html', require('ejs').renderFile);
 app.set('view engine', 'ejs');
 

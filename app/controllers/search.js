@@ -3,28 +3,21 @@ var hotelsModel = require('../models/hotels');
 
 module.exports.controller = function(app) {
 
-  app.get('/search', function(req, res){
+  app.get('/search/:key', function(req, res){
 
-  	var query = {
-        name : new RegExp('^'+req.query.key, "i"),
-        cidade : new RegExp('^'+req.query.key, "i")
-    };
-    var data = [];
+  	var query = {};
+    var regex = new RegExp('^'+req.params.key, "i");
 
   	hotelsModel
-    .find(query, { 'name':1,'cidade':1, '_id':0})
-    .exec(function (err, rows) {
+    .find(query, { 'hotel':1,'city':1, '_id':0})
+    .or({hotel: regex}, {city: regex})
+    .limit(15)
+    .exec(function (err, data) {
   		if(err) {
       		console.log('ERRO: ', err);
 		  }
 
-      console.log( rows[0] );
-
-      for(i = 0; i < rows.length; i++) {
-        data.push( rows[i].cidade +', '+rows[i].name );
-        data.push( rows[i].name );
-      }
-
+      res.set('Content-Type', 'application/json');
       res.send(data);
 
 		// res.set('Content-Type', 'application/json');

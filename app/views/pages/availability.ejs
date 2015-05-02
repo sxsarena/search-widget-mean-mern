@@ -1,0 +1,5 @@
+<ul>
+    <% data.forEach(function(res) { %>
+        <li><%= res.hotel_id.hotel %> - <%= moment(res.date).format("DD/MM/YYYY") %></li>
+    <% }); %>
+</ul>

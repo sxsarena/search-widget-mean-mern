@@ -30,6 +30,8 @@ $('.form').on('submit', function(event) {
 			Desafio.validation.init(this);
 		}
 	});
+
+	this.submit();
 });
 
 $('.form-field:enabled').on('keyup change', function(event) {
