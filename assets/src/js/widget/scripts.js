@@ -24,14 +24,21 @@ $(document).on("keydown keyup", ".js-field-string", function() {
 // Validacao do formulario
 $('.form').on('submit', function(event) {
 	event.preventDefault();
+	var empty = false;
 	$('.form-field:enabled').each(function() {
 		// verificao se o campo é criado pelo plugin typeahead
 		if(!$(this).hasClass('tt-hint')) {
-			Desafio.validation.init(this);
+			var fieldValidation = Desafio.validation.init(this);
+			if(fieldValidation === 'invalid'){
+				empty = true;
+			}
+			
 		}
 	});
-
-	this.submit();
+	// Campos válidos
+	if(!empty){
+		this.submit();
+	}
 });
 
 $('.form-field:enabled').on('keyup change', function(event) {

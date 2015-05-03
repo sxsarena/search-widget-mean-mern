@@ -9,10 +9,11 @@ Desafio.validation = (function() {
 
 		if( $elem.val() === '' ){
 			this.addError($elem);
+			return 'invalid';
 		} else {
 			this.removeError($elem);
+			return 'valid';
 		}
-
 	};
 
 	var addError = function(element) {
