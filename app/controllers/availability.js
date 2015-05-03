@@ -1,4 +1,3 @@
-var async       = require('async');
 var mongoose    = require('mongoose');
 var moment      = require('moment');
 var dateFormat  = 'DD/MM/YYYY';

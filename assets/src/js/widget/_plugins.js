@@ -37,36 +37,26 @@ release_picker.on('set', function(event) {
 
 
 // Autocomplete
-var hotels = new Bloodhound({
-	datumTokenizer: function(d) { 
-		return Bloodhound.tokenizers.whitespace(d.hotel);
-	},
+var terms = new Bloodhound({
+	datumTokenizer: Bloodhound.tokenizers.whitespace('value'),
 	queryTokenizer: Bloodhound.tokenizers.whitespace,
 	prefetch: '/search', 
 	remote: {
     	url: '/search/%QUERY',
-    	wildcard: '%QUERY',
-	    filter: function(list) {
-			return $.map(list, function(hotels) {
-				return { hotel: hotels.hotel };
-			});
-		}
+    	wildcard: '%QUERY'
 	}
 });
 
-hotels.initialize();
+terms.initialize();
 
-$('.js-autocomplete').typeahead(null,{
-	minLength: 1,
-	hint: true,
-	highlighter: true,
-	name: 'hotels',
-	displayKey: 'hotel',
-	source: hotels.ttAdapter(), 
+$('.js-autocomplete').typeahead({
+	minLength: 3,
+	highlight: true
+},{	
+	limit: 7,
+	name: 'terms',
+	source: terms,
 	templates: {
-	    suggestion: function (hotels) {
-	        return '<p>' + hotels.hotel + '</p>';
-	    },
 	    notFound:function () {
 	        return '<p class="tt-suggestion">Sem resultados</p>';
 	    }
