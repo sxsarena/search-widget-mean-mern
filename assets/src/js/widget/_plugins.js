@@ -45,6 +45,7 @@ var hotels = new Bloodhound({
 	prefetch: '/search', 
 	remote: {
     	url: '/search/%QUERY',
+    	wildcard: '%QUERY',
 	    filter: function(list) {
 			return $.map(list, function(hotels) {
 				return { hotel: hotels.hotel };
