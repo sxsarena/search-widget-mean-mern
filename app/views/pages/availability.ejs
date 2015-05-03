@@ -1,5 +1,7 @@
+<h3>Hotéis Disponiveis</h3>
+
 <ul>
     <% data.forEach(function(res) { %>
-        <li><%= res.hotel_id.hotel %> - <%= moment(res.date).format("DD/MM/YYYY") %></li>
+        <li><%= res.hotel_id.hotel %> - <%= res.hotel_id.city %> - <%= moment(res.date).format("DD/MM/YYYY") %></li>
     <% }); %>
 </ul>

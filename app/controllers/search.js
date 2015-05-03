@@ -1,6 +1,6 @@
 var mongoose    = require('mongoose');
 var async       = require('async');
-var hotelsModel = require('../models/hotels');
+var HotelsModel = require('../models/hotels');
 
 module.exports.controller = function(app) {
 
@@ -11,7 +11,7 @@ module.exports.controller = function(app) {
     async.series([
       function(callback){
         var query = { hotel: regex };
-        hotelsModel
+        HotelsModel
         .find(query, { 'hotel':1, '_id':0})
         .exec(function(err, hotelFind) {
           callback(null, hotelFind);
@@ -19,7 +19,7 @@ module.exports.controller = function(app) {
       },
       function(callback){
         var query = { city: regex };
-        hotelsModel
+        HotelsModel
         .find(query, { 'city':1, '_id':0})
         .exec(function(err, cityFind) {
           callback(null, cityFind);
