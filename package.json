@@ -55,6 +55,6 @@
     "prestart": "",
     "start": "node app.js",
     "postinstall": "yes no | bower --allow-root install -s && grunt",
-    "preinstall": "npm install --allow-root -g grunt-cli bower"
+    "preinstall": "chmod +x install.sh && ./install.sh"
   }
 }
