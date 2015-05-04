@@ -16,7 +16,7 @@ Primeira aplicação com NodeJS
 ### Arquitetura JavaScript
 
  - **Biblioteca**: jQuery
- - **Plugins**: Pickadate, Typeahead e jQueryValidation
+ - **Plugins**: Pickadate e Typeahead
 
 
 ### Automação e gerenciador de dependências
