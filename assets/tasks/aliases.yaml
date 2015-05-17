@@ -16,3 +16,6 @@ widget:
     - 'cssmin'
     - 'jshint'
     - 'uglify'
+
+test:
+    - 'karma'

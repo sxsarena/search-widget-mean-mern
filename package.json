@@ -5,7 +5,7 @@
   "description": "Desafio para desenvolvedores",
   "author": {
     "name": "Hemerson Vianna",
-    "url": "http://www.hemersonvianna.com",
+    "url": "http://hemersonvianna.io",
     "email": "hemerson.lourenco@gmail.com"
   },
   "repository": {
@@ -25,7 +25,9 @@
     "mongoose": "^4.0.2",
     "morgan": "~1.5.1",
     "node-sass": "^2.1.1",
-    "serve-favicon": "~2.2.0"
+    "serve-favicon": "~2.2.0",
+    "karma": "^0.12.31",
+    "phantomjs": "^1.9.16"
   },
   "devDependencies": {
     "grunt-autoprefixer": "~0.7.6",
@@ -40,6 +42,15 @@
     "grunt-contrib-watch": "~0.6.1",
     "grunt-sass": "^0.18.1",
     "grunt-shell-spawn": "^0.3.2",
+    "grunt-karma": "^0.10.1",
+    "jasmine-core": "^2.3.4",
+    "karma-jasmine": "^0.3.5",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-ie-launcher": "^0.1.5",
+    "karma-opera-launcher": "^0.1.0",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-safari-launcher": "^0.1.1",
     "imagemin-mozjpeg": "~5.1.0",
     "load-grunt-config": "~0.10.0",
     "load-grunt-tasks": "~0.4.0",
@@ -52,6 +63,7 @@
     "node": "0.12.x"
   },
   "scripts": {
+    "test": "grunt test",
     "prestart": "",
     "start": "node app.js",
     "postinstall": "yes no | bower --allow-root install -s && grunt",
