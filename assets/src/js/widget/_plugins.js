@@ -26,6 +26,7 @@ entry_picker.on('set', function(event) {
     release_picker.set('min', false);
   }
 });
+
 release_picker.on('set', function(event) {
   if ( event.select ) {
     entry_picker.set('max', release_picker.get('select'));

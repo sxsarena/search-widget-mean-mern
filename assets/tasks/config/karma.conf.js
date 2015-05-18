@@ -5,16 +5,25 @@ module.exports = function(config) {
   config.set({
 
     // base path that will be used to resolve all patterns (eg. files, exclude)
-    basePath: '',
+    basePath: '../../../',
 
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ['jasmine'],
+    frameworks: ['mocha', 'chai', 'sinon'],
 
 
     // list of files / patterns to load in the browser
     files: [
+        'assets/src/vendor/jquery/dist/jquery.js',
+        'assets/src/vendor/pickadate/lib/picker.js',
+        'assets/src/vendor/pickadate/lib/picker.date.js',
+        'assets/src/vendor/pickadate/lib/picker.time.js',
+        'assets/src/vendor/pickadate/lib/legacy.js',
+        'assets/src/vendor/pickadate/lib/translations/pt_BR.js',
+        'assets/src/vendor/typeahead.js/dist/typeahead.bundle.min.js',
+        'assets/src/js/**/*.js',
+        'test/**/*.js'
     ],
 
 
@@ -54,11 +63,11 @@ module.exports = function(config) {
 
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
-    browsers: ['Chrome', 'Firefox', 'PhantomJS', 'Opera', 'IE', 'Safari'],
+    browsers: ['PhantomJS'],
 
 
     // Continuous Integration mode
     // if true, Karma captures browsers, runs the tests and exits
-    singleRun: true
+    singleRun: false
   });
 };
