@@ -1,39 +1,46 @@
 // pickadate
-$('.js-date').pickadate({
-	format: 'dd/mm/yyyy',
-	formatSubmit: 'dd/mm/yyyy',
-	closeOnSelect: true,
+$( '.js-date' ).pickadate({
+    format: 'dd/mm/yyyy',
+    formatSubmit: 'dd/mm/yyyy',
+    selectMonths: true,
+    selectYears: true,
+    closeOnSelect: true,
     closeOnClear: true
 });
 
-var entry_picker = $('#entry_date').pickadate('picker');
-var release_picker = $('#release_date').pickadate('picker');
- 
-// Verifique se há um "de" ou "para" data para começar.
-if ( entry_picker.get('value') ) {
-  release_picker.set('min', entry_picker.get('select'));
-}
-if ( release_picker.get('value') ) {
-  entry_picker.set('max', release_picker.get('select'));
-}
+var elementDatePicker = function(element){
+    return $(element).pickadate().pickadate('picker');
+};
+var fromTo = function(pickerfrom, pickerto){
+    if ( pickerfrom.get('value') ) {
+        pickerto.set('min', pickerfrom.get('select'));
+    }
+    if ( pickerto.get('value') ) {
+        pickerfrom.set('max', pickerto.get('select'));
+    }
 
-// Quando uma data for selecionada, atualizar o limite "de" e "para".
-entry_picker.on('set', function(event) {
-  if ( event.select ) {
-    release_picker.set('min', entry_picker.get('select'));
-  }
-  else if ( 'clear' in event ) {
-    release_picker.set('min', false);
-  }
-});
+    pickerfrom.on('set', function(event){
+        if ( event.select ) {
+            pickerto.set('min', pickerfrom.get('select'));
+        }
+        else if ( 'clear' in event ) {
+            pickerto.set('min', false);
+        }
+    });
+    pickerto.on('set', function(event){
+        if ( event.select ) {
+            pickerfrom.set('max', pickerto.get('select'));
+        }
+        else if ( 'clear' in event ) {
+            pickerfrom.set('max', false);
+        }
+    });
+};
 
-release_picker.on('set', function(event) {
-  if ( event.select ) {
-    entry_picker.set('max', release_picker.get('select'));
-  }
-  else if ( 'clear' in event ) {
-    entry_picker.set('max', false);
-  }
+$('#entry_date').each(function( index, element ){
+    var fromInput = elementDatePicker(element);
+    var toInput   = elementDatePicker($('#release_date').eq(index));
+    fromTo(fromInput, toInput);
 });
 
 
