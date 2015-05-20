@@ -37,9 +37,9 @@ var fromTo = function(pickerfrom, pickerto){
     });
 };
 
-$('#entry_date').each(function( index, element ){
+$('.js-entrydate').each(function( index, element ){
     var fromInput = elementDatePicker(element);
-    var toInput   = elementDatePicker($('#release_date').eq(index));
+    var toInput   = elementDatePicker($('.js-releasedate').eq(index));
     fromTo(fromInput, toInput);
 });
 

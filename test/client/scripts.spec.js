@@ -1,46 +1,30 @@
-describe("A test suite", function() {
-   beforeEach(function() { });
-   afterEach(function() { });
-   it('should fail', function() { expect(true).to.be.true; });
+describe("Ação para desabilitar/habilitar campos de datas", function() {
+   
+    var $elemDate = $('.js-date');
+    
+
+    var evObj = new CustomEvent('click');
+    evObj.initEvent('click', true, false);
+    $('.js-disabledate').dispatchEvent(evObj);
+
+
+    // $('.js-disabledate').on('click', function() {
+    //  var $elem = $(this);
+
+    //  if( $elem.is(':checked') ){
+    //      $elemDate.prop('disabled', true);
+    //      $elemDate.val('');
+
+    //      $elemDate.each(function() {
+    //          Desafio.validation.removeError(this);
+    //      });
+    //  } else {
+    //      $elemDate.prop('disabled', false);
+    //  }
+    // });
+
 });
 
-describe("sinon example test", function () {
-    var time2013_10_01;
- 
-    time2013_10_01 = (new Date(2013, 10-1, 1)).getTime();
- 
-    before(function() {
-        // sinon was defined in global scope 
-        this.fakeTimer = new sinon.useFakeTimers(time2013_10_01);
-    });
- 
-    it("some test", function() {
-        //test 
-    });
- 
-    after(function() {
-        this.fakeTimer.restore();
-    });
- 
-});
-
-// //
-// var $elemDate = $('.js-date');
-// // Ação para desabilitar/habilitar campos de datas
-// $('.js-disabledate').on('click', function() {
-// 	var $elem = $(this);
-
-// 	if( $elem.is(':checked') ){
-// 		$elemDate.prop('disabled', true);
-// 		$elemDate.val('');
-
-// 		$elemDate.each(function() {
-// 			Desafio.validation.removeError(this);
-// 		});
-// 	} else {
-// 		$elemDate.prop('disabled', false);
-// 	}
-// });
 
 // // Validacao para não permitir caracteres especiais e digitos
 // $(document).on("keydown keyup", ".js-field-string", function() {
