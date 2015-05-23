@@ -10,7 +10,7 @@ module.exports = function(config) {
 
     // frameworks to use
     // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
-    frameworks: ['mocha', 'chai', 'sinon'],
+    frameworks: ['jquery-1.11.0', 'jasmine-jquery', 'jasmine'],
 
 
     // list of files / patterns to load in the browser
@@ -22,15 +22,17 @@ module.exports = function(config) {
         'assets/src/vendor/pickadate/lib/legacy.js',
         'assets/src/vendor/pickadate/lib/translations/pt_BR.js',
         'assets/src/vendor/typeahead.js/dist/typeahead.bundle.min.js',
-        'assets/src/js/**/*.js',
-        'test/**/*.js'
+        'assets/src/js/widget/_config.js',
+        'assets/src/js/widget/_plugins.js',
+        'assets/src/js/widget/_validation.js',
+        'assets/src/js/widget/scripts.js',
+        'test/client/*.js'
     ],
 
 
     // list of files to exclude
     exclude: [
     ],
-
 
     // preprocess matching files before serving them to the browser
     // available preprocessors: https://npmjs.org/browse/keyword/karma-preprocessor
@@ -41,7 +43,7 @@ module.exports = function(config) {
     // test results reporter to use
     // possible values: 'dots', 'progress'
     // available reporters: https://npmjs.org/browse/keyword/karma-reporter
-    reporters: ['progress'],
+    reporters: ['mocha'],
 
 
     // web server port

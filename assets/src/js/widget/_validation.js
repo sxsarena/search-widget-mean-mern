@@ -35,6 +35,8 @@ Desafio.validation = (function() {
 			$elemWrap.find('.error-msg').remove();
 			$elem.unwrap('.error');
 		}
+
+		return true;
 	};
   
 	return {
