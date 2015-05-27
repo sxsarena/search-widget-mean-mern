@@ -19,3 +19,4 @@ widget:
 
 test:
     - 'karma'
+    - 'simplemocha'

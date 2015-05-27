@@ -47,6 +47,7 @@
     "grunt-karma": "^0.10.1",
     "grunt-sass": "^0.18.1",
     "grunt-shell-spawn": "^0.3.2",
+    "grunt-simple-mocha": "^0.4.0",
     "imagemin-mozjpeg": "~5.1.0",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.1.12",

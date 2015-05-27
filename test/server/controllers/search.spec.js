@@ -1,13 +1,13 @@
 describe("Search", function() {
+ //    it("should respond", function() {
+	// 	var req,res,spy;
 
-    beforeEach(function(done) {
+	// 	req = res = {};
+	// 	spy = res.send = sinon.spy();
 
-        done();
-    });
-
-    it("Search 1", function() {
-
-    });
+	// 	getUsers(req, res);
+	// 	expect(spy.calledOnce).to.equal(true);
+	// });
 });
 
 // var mongoose    = require('mongoose');
