@@ -7,7 +7,7 @@ module.exports = function(grunt, options){
         timeout: 3000,
         ignoreLeaks: false,
         ui: 'bdd',
-        reporter: 'tap'
+        reporter: 'spec'
       }
     }
   }
