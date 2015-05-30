@@ -54,6 +54,20 @@ sudo brew install mongodb
 sudo apt-get install mongodb
 ```
 
+##Teste automatizado
+
+ - **Front-End:** Karma / Jasmine / Jasmine-jQuery
+
+ - **Back-End:** Mocha / Chai / Sinon / SuperTest
+
+**Comando:**
+
+```
+npm test
+```
+
+
+
 ##Procedimento(Testado no ubuntu)
 
 >1. *git clone projeto*

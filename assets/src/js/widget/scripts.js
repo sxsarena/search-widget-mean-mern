@@ -1,64 +1,14 @@
-Desafio.enableDisableFields = function( $element, $target ){
-	var $elemDate = $target;
-	// Ação para desabilitar/habilitar campos de datas
-	$element.on('click', function() {
-		var $elem = $(this);
+// Desabilitar os campos de entrada e saida, mediante a uma ação do usuario
+Desafio.util.enableDisableFields( $('.js-disabledate'), $('.js-date') );
 
-		if( $elem.is(':checked') ){
-			$elemDate.prop('disabled', true);
-			$elemDate.val('');
+// Não permitir caracteres especias e digitos
+Desafio.util.alphaFieldsValidate($('.js-field-string'));
 
-			$elemDate.each(function() {
-				Desafio.validation.removeError(this);
-			});
-		} else {
-			$elemDate.prop('disabled', false);
-		}
-	});
-};
-Desafio.enableDisableFields( $('.js-disabledate'), $('.js-date') );
+//Validação ao submeter um formulario
+Desafio.util.formSubmit($('.form'), $('.form-field:enabled'));
 
+//Validacao na digitação do usuario
+Desafio.util.alterFields( $('.form-field:enabled') );
 
-Desafio.alphaFieldsValidate = function($element){
-	// Validacao para não permitir caracteres especiais e digitos
-	$element.on("keydown keyup", function() {
-	    $(this).val( $(this).val().replace(/[^a-zA-ZãâÃÂáÁàÀêÊéÉèÈíÍìÌôÔõÕóÓòÒúÚùÙûÛçÇ ]/g, "") );
-	});
-};
-Desafio.alphaFieldsValidate($('.js-field-string'));
-
-
-Desafio.formSubmit = function( $form, $fields ){
-	// Validacao do formulario
-	$form.on('submit', function(event) {
-		event.preventDefault();
-		var empty = false;
-		$fields.each(function() {
-			// verificao se o campo é criado pelo plugin typeahead
-			if(!$(this).hasClass('tt-hint')) {
-				var fieldValidation = Desafio.validation.init(this);
-				if(fieldValidation === 'invalid'){
-					empty = true;
-				}
-				
-			}
-		});
-		// Campos válidos
-		if(!empty){
-			this.submit();
-		}
-	});
-};
-Desafio.formSubmit($('.form'), $('.form-field:enabled'));
-
-
-Desafio.alterFields = function( $fields ){
-	$fields.on('keyup change', function(event) {
-		event.preventDefault();
-		// verificao se o campo é criado pelo plugin typeahead
-		if(!$(this).hasClass('tt-hint')) {
-			Desafio.validation.init(this);
-		}
-	});
-};
-Desafio.alterFields( $('.form-field:enabled') );
+// Regra para campos de entrada e saida utilizando o plugin Pickadate
+Desafio.fromToPickadate.init( $('.js-entrydate'), $('.js-releasedate') );

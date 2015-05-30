@@ -7,7 +7,7 @@ default:
     - 'cssmin'
     - 'jshint'
     - 'uglify'
-    - 'imagemin'
+ #   - 'imagemin'
 
 widget:
     - 'sass'
