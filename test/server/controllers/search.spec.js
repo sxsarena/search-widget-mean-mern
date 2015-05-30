@@ -1,5 +1,7 @@
 var request = require('supertest');
 var express = require('express');
+var mongoose = require('mongoose');
+var should   = require('chai').should();
 var async = require('async');
 
 var app = require('../../../app');

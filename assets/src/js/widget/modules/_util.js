@@ -45,6 +45,9 @@ Desafio.util = (function() {
 			// Campos válidos
 			if(!empty){
 				this.submit();
+				return true;
+			} else {
+				return false;
 			}
 		});
 	};

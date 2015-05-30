@@ -10,7 +10,7 @@ describe("Action to disable / enable date fields", function() {
         Desafio.util.enableDisableFields($inputCheckbox, $inputText);
     });
 
-    it("Disable the date fields", function(done) {
+    it("Disable the date fields", function() {
         expect($inputCheckbox).toHaveClass('js-disabledate');        
         expect($inputCheckbox.trigger('click')).toBeChecked();
 
@@ -21,11 +21,9 @@ describe("Action to disable / enable date fields", function() {
         $inputText.each(function() {
             expect(Desafio.validation.removeError(this)).toBeTruthy();
         });
-
-        done();
     });
 
-    it("Enable the date fields", function(done) {
+    it("Enable the date fields", function() {
         $inputCheckbox.prop('checked', true);
 
         expect($inputCheckbox).toHaveClass('js-disabledate');
@@ -33,8 +31,6 @@ describe("Action to disable / enable date fields", function() {
 
         expect($inputText).toHaveClass('js-date');
         expect($inputText).not.toBeDisabled();
-
-        done();
     });
 });
 
@@ -49,7 +45,7 @@ describe("Do not allow the insertion of special characters and digits", function
         Desafio.util.alphaFieldsValidate($('.js-field-string'));
     });
 
-    it("Entering an invalid character", function(done){
+    it("Entering an invalid character", function(){
         var eventKeyDown = $.Event("keydown", {which: 49, keyCode: 49, charCode: 49});
         var eventKeyUp   = $.Event("keyup", {which: 49, keyCode: 49, charCode: 49});
         var valueKeyDown;
@@ -62,10 +58,9 @@ describe("Do not allow the insertion of special characters and digits", function
         $inputText.trigger('keyup');
         valueKeyUp = String.fromCharCode(eventKeyUp.charCode).replace(regex, "");
         expect($inputText.val(valueKeyUp)).toHaveValue('');
-        done();
     });
 
-    it("Entering an valid character", function(done){
+    it("Entering an valid character", function(){
         var eventKeyDown = $.Event("keydown", {which: 72, keyCode: 72, charCode: 72});
         var eventKeyUp   = $.Event("keyup", {which: 72, keyCode: 72, charCode: 72});
         var valueKeyDown;
@@ -78,27 +73,34 @@ describe("Do not allow the insertion of special characters and digits", function
         $inputText.trigger('keyup');
         valueKeyUp = String.fromCharCode(eventKeyUp.charCode).replace(regex, "");
         expect($inputText.val(valueKeyUp)).toHaveValue('H');
-        done();
     });
 
 });
 
 describe("Form validation", function() {
 
-    it("Blocking submit event", function(done) {
-
-        var fixture = setFixtures('<form class="form action="post"><input class="form-field" type="text" value=""><input class="form-action-submit" type="submit" value="Enviar"></form>');
+    beforeEach(function() {
+        var fixture = setFixtures('<form class="form action="post"><input class="form-field" name="[teste]" type="text"></form>');
         $form       = fixture.find('.form');
         $inputText  = fixture.find('.form-field');
 
         Desafio.util.formSubmit($form, $inputText);
+    });
 
+    it("Blocking submit event", function() {
         var spyEvent = spyOnEvent($form, 'submit');
         $form.trigger("submit");
-        expect(spyEvent).toHaveBeenTriggered();
+        expect(spyEvent).not.toHaveBeenTriggeredOn($form);
         expect(spyEvent).toHaveBeenPrevented();
+    });
 
-        done();
+    it("Submitting the form", function() {
+        var spyEvent = spyOnEvent($form, 'submit');
+
+        $inputText.prop('value','teste');
+        $form.trigger("submit");
+
+        expect($form).toHandle("submit");
     });
 });
 

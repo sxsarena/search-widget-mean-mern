@@ -36,7 +36,7 @@ fs.readdirSync('./app/controllers').forEach(function (file) {
 
 load('models').then('controllers').into(app);
 
-var server = app.listen(8000, function () {
+var server = app.listen(9000, function () {
   console.log('Acesse pelo browser http://localhost:9000');
 });
 

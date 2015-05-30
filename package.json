@@ -25,16 +25,19 @@
     "jasmine": "^2.3.1",
     "karma": "^0.12.31",
     "mocha": "^2.2.5",
+    "mocha-mongoose": "^1.0.4",
     "moment": "^2.10.2",
+    "mongodb": "^1.4.38",
     "mongoose": "^4.0.2",
     "morgan": "~1.5.1",
     "node-sass": "^2.1.1",
-    "phantomjs": "^1.9.16",
+    "phantomjs": "^1.9.17",
     "serve-favicon": "~2.2.0",
     "sinon": "^1.14.1",
     "supertest": "^1.0.1"
   },
   "devDependencies": {
+    "grunt": ">=0.4.5",
     "grunt-autoprefixer": "~0.7.6",
     "grunt-combine-media-queries": "~1.0.15",
     "grunt-contrib-clean": "~0.5.0",
@@ -59,16 +62,14 @@
     "karma-mocha": "^0.1.10",
     "karma-mocha-reporter": "^1.0.2",
     "karma-opera-launcher": "^0.1.0",
-    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-phantomjs-launcher": "^0.2.0",
     "karma-safari-launcher": "^0.1.1",
     "karma-sinon": "^1.0.4",
     "load-grunt-config": "~0.10.0",
     "load-grunt-tasks": "~0.4.0",
     "time-grunt": "~0.3.2"
   },
-  "peerDependencies": {
-    "grunt": ">=0.4.5"
-  },
+  "peerDependencies": {},
   "engines": {
     "node": "0.12.x"
   },
@@ -77,6 +78,6 @@
     "prestart": "",
     "start": "node app.js",
     "postinstall": "yes no | bower --allow-root install -s && grunt",
-    "preinstall": "chmod +x install.sh && ./install.sh"
+    "preinstall": "chmod +x install.sh && install.sh"
   }
 }
