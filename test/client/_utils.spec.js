@@ -7,7 +7,7 @@ describe("Action to disable / enable date fields", function() {
         $inputText      = fixture.find('.js-date');
         $inputCheckbox  = fixture.find('.js-disabledate');
 
-        Desafio.enableDisableFields($inputCheckbox, $inputText);
+        Desafio.util.enableDisableFields($inputCheckbox, $inputText);
     });
 
     it("Disable the date fields", function(done) {
@@ -46,7 +46,7 @@ describe("Do not allow the insertion of special characters and digits", function
         var fixture = setFixtures('<input class="js-field-string" type="text" value="">');
         $inputText  = fixture.find('.js-field-string');
 
-        Desafio.alphaFieldsValidate($('.js-field-string'));
+        Desafio.util.alphaFieldsValidate($('.js-field-string'));
     });
 
     it("Entering an invalid character", function(done){
@@ -83,24 +83,24 @@ describe("Do not allow the insertion of special characters and digits", function
 
 });
 
-/// Testar mais
-// describe("Form validation", function() {
+describe("Form validation", function() {
 
-//     it("Blocking submit event", function(done) {
+    it("Blocking submit event", function(done) {
 
-//         var fixture = setFixtures('<form class="form action="post"><input class="form-field" type="text" value=""><input class="form-action-submit" type="submit" value="Enviar"></form>');
-//         $form       = fixture.find('.form');
-//         $inputText  = fixture.find('.form-field');
+        var fixture = setFixtures('<form class="form action="post"><input class="form-field" type="text" value=""><input class="form-action-submit" type="submit" value="Enviar"></form>');
+        $form       = fixture.find('.form');
+        $inputText  = fixture.find('.form-field');
 
-//         Desafio.formSubmit($form, $inputText);
+        Desafio.util.formSubmit($form, $inputText);
 
-//         var spyEvent = spyOnEvent($form, 'submit');
-//         $form.trigger("submit");
-//         expect(spyEvent).toHaveBeenTriggeredOn($form);
+        var spyEvent = spyOnEvent($form, 'submit');
+        $form.trigger("submit");
+        expect(spyEvent).toHaveBeenTriggered();
+        expect(spyEvent).toHaveBeenPrevented();
 
-//         done();
-//     });
-// });
+        done();
+    });
+});
 
 
 describe("Check enabled fields", function() {
@@ -110,7 +110,7 @@ describe("Check enabled fields", function() {
         $form       = fixture.find('.form');
         $inputText  = fixture.find('.form-field:enabled');
 
-        Desafio.alterFields( $inputText );
+        Desafio.util.alterFields( $inputText );
     });
 
     it("Fields invalids", function() {

@@ -22,9 +22,12 @@ module.exports = function(config) {
         'assets/src/vendor/pickadate/lib/legacy.js',
         'assets/src/vendor/pickadate/lib/translations/pt_BR.js',
         'assets/src/vendor/typeahead.js/dist/typeahead.bundle.min.js',
-        'assets/src/js/widget/_config.js',
-        'assets/src/js/widget/_plugins.js',
-        'assets/src/js/widget/_validation.js',
+
+        'assets/src/js/widget/app/_config.js',
+        'assets/src/js/widget/vendor/_plugins.js',
+        'assets/src/js/widget/modules/_validation.js',
+        'assets/src/js/widget/modules/_fromToPickadate.js',
+        'assets/src/js/widget/modules/_util.js',
         'assets/src/js/widget/scripts.js',
         'test/client/*.js'
     ],
