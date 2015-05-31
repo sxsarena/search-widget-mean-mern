@@ -1,10 +1,18 @@
+var expect = require('chai').expect;
 var request = require('supertest');
 var express = require('express');
-var mongoose = require('mongoose');
-var should   = require('chai').should();
 var async = require('async');
 
+var mongoose = require('mongoose');
+var mockgoose = require('mockgoose');
+
+mockgoose(mongoose);
+
 var app = require('../../../app');
+
+var HotelsModel = require('../../../app/models/hotels');
+
+
 
 describe('GET /search', function(){
 	it('respond with json', function(done){
@@ -12,48 +20,21 @@ describe('GET /search', function(){
 	});
 });
 
-// var regex = new RegExp('^'+req.params.key, "i");
+describe('Search / GET', function () {
+    it('Searching for hotels', function (done) {
+    	HotelsModel.find({hotel: 'Rio de Janeiro'},function (err, result) {
+            expect(err).not.to.be.ok;
+            expect(result).to.be.ok;
+        });
+        done();
+    });
 
-//   async.series([
-//     function(callback){
-//       var query = { hotel: regex };
-//       HotelsModel
-//       .find(query, { 'hotel':1, '_id':0})
-//       .exec(function(err, hotelFind) {
-//         callback(null, hotelFind);
-//       });
-//     },
-//     function(callback){
-//       var query = { city: regex };
-//       HotelsModel
-//       .find(query, { 'city':1, '_id':0})
-//       .exec(function(err, cityFind) {
-//         callback(null, cityFind);
-//       });
-//     }
-//   ], function(err, results){
-//     if(err) {
-//       console.log('ERRO: ', err);
-//     }
+    it('Searching for cities', function (done) {
+    	HotelsModel.find({city: 'Rio de Janeiro'},function (err, result) {
+            expect(err).not.to.be.ok;
+            expect(result).to.be.ok;
+        });
+        done();
+    });
 
-//     var data = results[0].concat(results[1]); 
-//     var arrayData = [];
-
-//     // Tratamento para retornar um array apenas com os valores
-//     for (var i = 0, len = data.length; i < len; i++) {
-//       if(data[i].hotel){
-//         // validacao para duplicidade
-//         if(arrayData.indexOf(data[i].hotel) === -1){
-//           arrayData.push(data[i].hotel);
-//         } 
-//       } else if(data[i].city){
-//         // validacao para duplicidade
-//         if(arrayData.indexOf(data[i].city) === -1){
-//           arrayData.push(data[i].city);
-//         }          
-//       }
-//     };
-
-    
-//     res.send(arrayData);
-//   });
+});
